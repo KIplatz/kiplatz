@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Fehler melden oder etwas beitragen
+    url: https://werkstatt.kiplatz.at/KIplatz/mitbauen
+    about: Fehler, Skills und Quellen nimmt die Werkstatt entgegen.
+  - name: Fragen und Ideen
+    url: https://forum.kiplatz.at/
+    about: Mitreden im Platzl.
+  - name: Sicherheitslücke
+    url: https://kiplatz.at/sicherheitsluecke-melden/
+    about: Bitte vertraulich an support@kiplatz.at, nie öffentlich.
