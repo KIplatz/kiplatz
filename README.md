@@ -29,7 +29,7 @@ Wie das im Einzelnen funktioniert, steht im [Wiki](https://kiplatz.at/wiki/so-fu
 Am Handy: eine Frage mit Quelle, eine Antwort als Tabelle, ein Brief im dunklen Modus.
 
 <p>
-  <img src="bilder/app-frage.png" alt="KIplatz am Handy: Frage nach der Höhe des Traunsteins, Antwort mit Quelle und dem Link Live im Netz nachprüfen" width="250">
+  <img src="bilder/app-frage.png" alt="KIplatz am Handy: Frage nach der Höhe des Traunsteins, Antwort mit 2 Quellen und den Knöpfen darunter" width="250">
   <img src="bilder/app-tabelle.png" alt="KIplatz am Handy: die gesetzlichen Feiertage in Österreich im Dezember als Tabelle" width="250">
   <img src="bilder/app-dunkel.png" alt="KIplatz am Handy im dunklen Modus: eine kurze, freundliche Absage für den Elternabend" width="250">
 </p>
