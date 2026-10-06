@@ -40,8 +40,8 @@ Ein Skill ist eine kurze Anleitung, an die sich KIplatz hält, etwa „Brief ans
 
 ## Etwas funktioniert nicht?
 
-- **Die KI antwortet nicht:** Steht oben „Die KI ist ausgeschaltet“, klick auf „KI einschalten“. Beim ersten Mal holt sie sich die nötigen Dateien, das dauert einmal etwas.
-- **Fehler gefunden:** Schreib eine Meldung in der [Werkstatt](https://werkstatt.kiplatz.at/KIplatz/mitbauen), es gibt Vorlagen dafür. [Wiki: Meldung schreiben](https://kiplatz.at/wiki/meldung-schreiben/)
-- **Frage an andere Mitglieder:** im [Platzl](https://forum.kiplatz.at/).
-- **Aufhören:** Austreten, Programm entfernen und Konto löschen sind 3 getrennte Schritte. [Wiki: Austreten](https://kiplatz.at/wiki/austreten/)
-- **Ein Wort nicht verstanden:** [Begriffe von A bis Z](https://kiplatz.at/wiki/begriffe/)
+- Die KI antwortet nicht? Steht oben „Die KI ist ausgeschaltet“, klick auf „KI einschalten“. Beim ersten Mal holt sie sich die nötigen Dateien, das dauert einmal etwas.
+- Einen Fehler gefunden? Schreib eine Meldung in der [Werkstatt](https://werkstatt.kiplatz.at/KIplatz/mitbauen), es gibt Vorlagen dafür. [Wiki: Meldung schreiben](https://kiplatz.at/wiki/meldung-schreiben/)
+- Andere Mitglieder fragst du im [Platzl](https://forum.kiplatz.at/).
+- Aufhören: Austreten, Programm entfernen und Konto löschen sind 3 getrennte Schritte. [Wiki: Austreten](https://kiplatz.at/wiki/austreten/)
+- Ein Wort nicht verstanden? Es steht in den [Begriffen von A bis Z](https://kiplatz.at/wiki/begriffe/)

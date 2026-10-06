@@ -31,13 +31,13 @@ Was nie hinein darf: …
 | `description:` | Ein Satz, wofür der Skill gut ist. Danach sucht man ihn in der Liste aus. |
 | darunter | Die Anweisungen, so wie du sie einem Menschen geben würdest. |
 
-## Was einen guten Skill ausmacht
+## 5 Tipps für einen guten Skill
 
-- **Eine Arbeit pro Skill.** „Brief ans Amt“ und „Rechnung prüfen“ sind zwei Skills, nicht einer.
-- **Sag, was KIplatz vorher fragen soll.** Fehlt etwas Wichtiges, etwa ein Datum oder ein Betrag, soll es nachfragen statt raten.
-- **Beschreib das Ergebnis.** Wie lang, in welcher Reihenfolge, in welchem Ton, per du oder per Sie.
-- **Schreib die Grenzen hinein.** Was nie fehlen darf und was nie hinein darf. Ein Satz wie „Erfinde nichts dazu“ steht in den meisten unserer Vorlagen.
-- **Halte ihn kurz.** Klare Sätze wirken besser als lange Erklärungen.
+- Eine Arbeit pro Skill: „Brief ans Amt“ und „Rechnung prüfen“ sind 2 Skills, nicht einer.
+- Sag, was KIplatz vorher fragen soll. Fehlt etwas Wichtiges, etwa ein Datum oder ein Betrag, soll es nachfragen statt raten.
+- Beschreib das Ergebnis: wie lang, in welcher Reihenfolge, in welchem Ton, per du oder per Sie.
+- Schreib die Grenzen hinein, also was nie fehlen darf und was nie hinein darf. Ein Satz wie „Erfinde nichts dazu“ steht in den meisten unserer Vorlagen.
+- Halte ihn kurz. Klare Sätze wirken besser als lange Erklärungen.
 
 Gute Beispiele zum Abschauen liegen in diesem Ordner, etwa [rechnung-pruefen](rechnung-pruefen/SKILL.md) oder [zusammenfassen](zusammenfassen/SKILL.md).
 
@@ -55,9 +55,9 @@ Im Programm unter „Skills“ auf „Neuen Skill schreiben“ klicken oder eine
 
 ## Mit der Community teilen
 
-1. **Zeigen und verbessern:** Stell deinen Skill im [Platzl](https://forum.kiplatz.at/) in die Kategorie Skills. Andere probieren ihn aus und machen ihn mit dir besser.
-2. **Für alle einreichen:** In der [Werkstatt](https://werkstatt.kiplatz.at/KIplatz/mitbauen) mit angehängter Datei oder als Änderungsvorschlag. Nach der Prüfung kommt er in jedes Programm.
-3. **Sichtbar werden:** Wer etwas beiträgt, steht auf Wunsch mit Namen auf [Wer mitbaut](https://kiplatz.at/wer-mitbaut/).
+1. Stell deinen Skill im [Platzl](https://forum.kiplatz.at/) in die Kategorie Skills. Andere probieren ihn aus und machen ihn mit dir besser.
+2. Für alle reichst du ihn in der [Werkstatt](https://werkstatt.kiplatz.at/KIplatz/mitbauen) ein, mit angehängter Datei oder als Änderungsvorschlag. Nach der Prüfung kommt er in jedes Programm.
+3. Wer etwas beiträgt, steht auf Wunsch mit Namen auf [Wer mitbaut](https://kiplatz.at/wer-mitbaut/).
 
 Die Skills in diesem Repository stehen unter [CC BY 4.0](../LICENSE). Kommt deiner hierher, dann nur mit deinem Einverständnis, unter derselben Lizenz und mit deinem Namen, wenn du das willst.
 

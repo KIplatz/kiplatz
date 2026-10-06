@@ -12,4 +12,4 @@ Schön, dass du mitmachen willst. Beiträge nehmen wir nicht hier auf GitHub ent
 
 Ein Konto gilt für Platzl, Werkstatt und Programm: [kostenlos anlegen](https://werkstatt.kiplatz.at/user/sign_up), mit E-Mail-Adresse oder Google.
 
-Wie wir miteinander umgehen, steht in der [Platzordnung](https://kiplatz.at/hausordnung/). Kurz: freundlich, ohne Punkte-Jagd, wer etwas ablehnt, sagt in einem Satz, warum.
+Wie wir miteinander umgehen, steht in der [Platzordnung](https://kiplatz.at/hausordnung/). Kurz gesagt: freundlich bleiben, Neue willkommen heißen, beim Thema bleiben, ehrlich bleiben und fremde Daten privat lassen.

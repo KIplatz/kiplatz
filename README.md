@@ -13,18 +13,18 @@
 
 [kiplatz.at](https://kiplatz.at/) · [Programm holen](https://kiplatz.at/rechenkraft-teilen/) · [Am Handy](https://kiplatz.at/app/) · [Mitreden im Platzl](https://forum.kiplatz.at/) · [Mitbauen in der Werkstatt](https://werkstatt.kiplatz.at/) · [Wiki](https://kiplatz.at/wiki/)
 
-## Was anders ist
+## Antworten von den PCs der Mitglieder
 
-- **Ohne Rechenzentrum.** Jeder PC, der mitmacht, arbeitet für die Community, wenn er sonst nichts zu tun hat. Auch das gemeinsame Wissen liegt bei den Mitgliedern, und neue Mitglieder holen ihre KI zuerst von anderen PCs der Community, verschlüsselt und Stück für Stück geprüft.
-- **Antworten mit Quelle.** Unter der Antwort steht, woher sie kommt. Weiß KIplatz etwas nicht, sagt es das, statt etwas zu erfinden.
-- **Deine Daten bleiben bei dir.** Gespräche, Gedächtnis und Dateien liegen auf deinem Gerät. E-Mail-Adressen, Telefonnummern und Kontonummern löscht der Server aus einer Frage, bevor sie an einen PC der Community geht. Allgemeine Wissensfragen und ihre geprüften Antworten heben wir verschlüsselt und ohne Namen auf, damit die nächste gleiche Frage sofort beantwortet ist. Daraus lernt KIplatz auch, [offen nachlesbar](https://kiplatz.at/so-lernt-kiplatz/); wer das nicht will, schaltet „Meine Fragen helfen beim Lernen“ aus. Alles dazu in der [Datenschutzerklärung](https://kiplatz.at/datenschutz/).
-- **Am Handy und von unterwegs.** Unter [kiplatz.at/app](https://kiplatz.at/app/) fragst du am Handy, und mit „Frag dein Zuhause“ holst du dir Dateien vom PC daheim, ohne Cloud.
-- **Dein PC arbeitet sichtbar.** Was dein Rechner für andere erarbeitet, steht in der [Bestenliste](https://kiplatz.at/bestenliste/), gern mit deinem Team aus Verein, Schule oder Freundeskreis. Die Zahlen der ganzen Community stehen in der [Statistik](https://kiplatz.at/statistik/).
-- **Aus Österreich, für den DACH-Raum.** Server in Wien, Sprache und Wissen für Österreich, Deutschland und die Schweiz. Programm und App gibt es auf Deutsch und Englisch.
+- Jeder PC, der mitmacht, arbeitet für die Community, wenn er sonst nichts zu tun hat. Auch das gemeinsame Wissen liegt bei den Mitgliedern, und neue Mitglieder holen ihre KI zuerst von anderen PCs der Community, verschlüsselt und Stück für Stück geprüft.
+- Unter der Antwort steht, woher sie kommt. Weiß KIplatz etwas nicht, sagt es das, statt etwas zu erfinden.
+- Gespräche, Gedächtnis und Dateien liegen auf deinem Gerät. E-Mail-Adressen, Telefonnummern und Kontonummern löscht der Server aus einer Frage, bevor sie an einen PC der Community geht. Allgemeine Wissensfragen und ihre geprüften Antworten heben wir verschlüsselt und ohne Namen auf, damit die nächste gleiche Frage sofort beantwortet ist. Daraus lernt KIplatz auch, [offen nachlesbar](https://kiplatz.at/so-lernt-kiplatz/); wer das nicht will, schaltet „Meine Fragen helfen beim Lernen“ aus. Alles dazu in der [Datenschutzerklärung](https://kiplatz.at/datenschutz/).
+- Am Handy fragst du unter [kiplatz.at/app](https://kiplatz.at/app/), und mit „Frag dein Zuhause“ holst du dir Dateien vom PC daheim, ohne Cloud.
+- Was dein Rechner für andere erarbeitet, steht in der [Bestenliste](https://kiplatz.at/bestenliste/), gern mit deinem Team aus Verein, Schule oder Freundeskreis. Die Zahlen der ganzen Community stehen in der [Statistik](https://kiplatz.at/statistik/).
+- Der Server steht in Wien, Sprache und Wissen sind für Österreich, Deutschland und die Schweiz gemacht. Programm und App gibt es auf Deutsch und Englisch.
 
 Wie das im Einzelnen funktioniert, steht im [Wiki](https://kiplatz.at/wiki/so-funktioniert-es/). Was nie passiert, steht auf [Was nie passiert](https://kiplatz.at/was-nie-passiert/).
 
-## So sieht es aus
+## Am Handy und am PC
 
 Am Handy: eine Frage mit Quelle, eine Antwort als Tabelle, ein Brief im dunklen Modus.
 
@@ -38,12 +38,12 @@ Am PC entscheidest du selbst, wann und wie viel dein Rechner für die Community 
 
 <p>
   <img src="bilder/programm-freigabe.png" alt="Das Programm am PC: die Karte Freigabe mit Schiebereglern für Rechenkraft, Arbeitsspeicher und Platz auf der Festplatte" width="49%">
-  <img src="bilder/programm-skills.png" alt="Das Programm am PC: die zehn Vorlagen von KIplatz, jede mit dem Knopf Übernehmen" width="49%">
+  <img src="bilder/programm-skills.png" alt="Das Programm am PC: die 10 Vorlagen von KIplatz, jede mit dem Knopf Übernehmen" width="49%">
 </p>
 
 ## Mitbauen passiert bei uns
 
-Hier auf GitHub liegt nur das Schaufenster. Gebaut, geredet und geholfen wird auf unseren eigenen Plätzen, mit einem Konto für alles.
+Hier auf GitHub liegt nur das Schaufenster. Gebaut und geredet wird auf unseren eigenen Plätzen, mit einem Konto für alles.
 
 | | Wo | Was du dort machst |
 |---|---|---|
@@ -67,7 +67,7 @@ Programmieren musst du dafür nicht können, ein Skill ist in 10 Minuten geschri
 
 **Eine Sicherheitslücke gefunden?** Bitte vertraulich, siehe [SECURITY.md](SECURITY.md).
 
-## Was in diesem Repository liegt
+## Skills, Werkzeuge und Doku in diesem Repository
 
 | Ordner | Inhalt |
 |---|---|
