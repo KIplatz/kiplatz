@@ -13,6 +13,8 @@
 
 [kiplatz.at](https://kiplatz.at/) · [Programm holen](https://kiplatz.at/rechenkraft-teilen/) · [Am Handy](https://kiplatz.at/app/) · [Mitreden im Platzl](https://forum.kiplatz.at/) · [Mitbauen in der Werkstatt](https://werkstatt.kiplatz.at/) · [Wiki](https://kiplatz.at/wiki/)
 
+**Tester für die Android-App gesucht.** Bevor die KIplatz-App im Play Store erscheint, verlangt Google einen Test: 12 Personen laden sie herunter und verwenden sie 14 Tage lang wie im Alltag. Es kostet nichts, und du musst nichts Besonderes können. Melde dich im Platzl: https://forum.kiplatz.at/t/kiplatz-fuer-android-wir-suchen-12-tester-fuer-unsere-app/34
+
 ## Antworten von den PCs der Mitglieder
 
 - Jeder PC, der mitmacht, arbeitet für die Community, wenn er sonst nichts zu tun hat. Auch das gemeinsame Wissen liegt bei den Mitgliedern, und neue Mitglieder holen ihre KI zuerst von anderen PCs der Community, verschlüsselt und Stück für Stück geprüft.
