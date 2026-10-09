@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kiplatz.at/">
+  <a href="https://kiplatz.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="bilder/logo-480-dunkel.png">
       <img src="bilder/logo-480.png" alt="KIplatz" width="240">
@@ -7,91 +7,80 @@
   </a>
 </p>
 
-# KIplatz
+# KIplatz: a free AI from Austria that runs on its community's PCs
 
-**Eine KI, die ihrer Community gehört.** Die Antworten erarbeiten die PCs der Mitglieder, nicht ein Rechenzentrum. Der Server in Wien vermittelt nur. Der PC, der deine Frage beantwortet, weiß nicht, wer du bist.
+**An AI that belongs to its community.** The answers are worked out by the members' own PCs, not by a data centre. The server in Vienna only passes questions on, and the PC that answers your question doesn't know who you are. (KI is German for AI.)
 
-[kiplatz.at](https://kiplatz.at/) · [Programm holen](https://kiplatz.at/rechenkraft-teilen/) · [Am Handy](https://kiplatz.at/app/) · [Mitreden im Platzl](https://forum.kiplatz.at/) · [Mitbauen in der Werkstatt](https://werkstatt.kiplatz.at/) · [Wiki](https://kiplatz.at/wiki/)
+English · [Deutsch](README.de.md)
 
-**Tester für die Android-App gesucht.** Bevor die KIplatz-App im Play Store erscheint, verlangt Google einen Test: 12 Personen laden sie herunter und verwenden sie 14 Tage lang wie im Alltag. Es kostet nichts, und du musst nichts Besonderes können. Melde dich im Platzl: https://forum.kiplatz.at/t/kiplatz-fuer-android-wir-suchen-12-tester-fuer-unsere-app/34
+[kiplatz.com](https://kiplatz.com/) · [Get the program](https://kiplatz.com/share-computing/) · [On your phone](https://kiplatz.at/app/) · [Forum (Platzl)](https://forum.kiplatz.at/?tl=en) · [Workshop](https://werkstatt.kiplatz.at/KIplatz/mitbauen?lang=en-US) · [Wiki](https://kiplatz.com/wiki/)
 
-## Antworten von den PCs der Mitglieder
-
-- Jeder PC, der mitmacht, arbeitet für die Community, wenn er sonst nichts zu tun hat. Auch das gemeinsame Wissen liegt bei den Mitgliedern, und neue Mitglieder holen ihre KI zuerst von anderen PCs der Community, verschlüsselt und Stück für Stück geprüft.
-- Unter der Antwort steht, woher sie kommt. Weiß KIplatz etwas nicht, sagt es das, statt etwas zu erfinden.
-- Gespräche, Gedächtnis und Dateien liegen auf deinem Gerät. E-Mail-Adressen, Telefonnummern und Kontonummern löscht der Server aus einer Frage, bevor sie an einen PC der Community geht. Allgemeine Wissensfragen und ihre geprüften Antworten heben wir verschlüsselt und ohne Namen auf, damit die nächste gleiche Frage sofort beantwortet ist. Daraus lernt KIplatz auch, [offen nachlesbar](https://kiplatz.at/so-lernt-kiplatz/); wer das nicht will, schaltet „Meine Fragen helfen beim Lernen“ aus. Alles dazu in der [Datenschutzerklärung](https://kiplatz.at/datenschutz/).
-- Am Handy fragst du unter [kiplatz.at/app](https://kiplatz.at/app/), und mit „Frag dein Zuhause“ holst du dir Dateien vom PC daheim, ohne Cloud.
-- Was dein Rechner für andere erarbeitet, steht in der [Bestenliste](https://kiplatz.at/bestenliste/), gern mit deinem Team aus Verein, Schule oder Freundeskreis. Die Zahlen der ganzen Community stehen in der [Statistik](https://kiplatz.at/statistik/).
-- Der Server steht in Wien, Sprache und Wissen sind für Österreich, Deutschland und die Schweiz gemacht. Programm und App gibt es auf Deutsch und Englisch.
-
-Wie das im Einzelnen funktioniert, steht im [Wiki](https://kiplatz.at/wiki/so-funktioniert-es/). Was nie passiert, steht auf [Was nie passiert](https://kiplatz.at/was-nie-passiert/).
-
-## Am Handy und am PC
-
-Am Handy: eine Frage mit Quelle, eine Antwort als Tabelle, ein Brief im dunklen Modus.
+**Testers wanted for the Android app.** Before the KIplatz app appears in the Play Store, Google requires a test: 12 people download it and use it for 14 days in everyday life. It costs nothing and you don't need any special skills. Sign up in the forum (the thread is in German): https://forum.kiplatz.at/t/kiplatz-fuer-android-wir-suchen-12-tester-fuer-unsere-app/34
 
 <p>
-  <img src="bilder/app-frage.png" alt="KIplatz am Handy: Frage nach der Höhe des Traunsteins, Antwort mit 2 Quellen und den Knöpfen darunter" width="250">
-  <img src="bilder/app-tabelle.png" alt="KIplatz am Handy: die gesetzlichen Feiertage in Österreich im Dezember als Tabelle" width="250">
-  <img src="bilder/app-dunkel.png" alt="KIplatz am Handy im dunklen Modus: eine kurze, freundliche Absage für den Elternabend" width="250">
+  <img src="bilder/en/app-frage.png" alt="KIplatz on a phone: the question how high the Traunstein is, the answer with 2 sources and the buttons below it" width="250">
+  <img src="bilder/en/app-tabelle.png" alt="KIplatz on a phone: the public holidays in Austria in December as a table" width="250">
+  <img src="bilder/en/app-dunkel.png" alt="KIplatz on a phone in dark mode: a short, friendly note for a parents' evening" width="250">
 </p>
 
-Am PC entscheidest du selbst, wann und wie viel dein Rechner für die Community arbeitet. Skills übernimmst du mit einem Klick.
+## Answers from the members' PCs
 
-<p>
-  <img src="bilder/programm-freigabe.png" alt="Das Programm am PC: die Karte Freigabe mit Schiebereglern für Rechenkraft, Arbeitsspeicher und Platz auf der Festplatte" width="49%">
-  <img src="bilder/programm-skills.png" alt="Das Programm am PC: die 10 Vorlagen von KIplatz, jede mit dem Knopf Übernehmen" width="49%">
-</p>
+- Every PC that takes part works for the community whenever it has nothing else to do. The shared knowledge lives with the members too, and new members first get their AI from other PCs in the community, encrypted and checked piece by piece.
+- Under every answer you see where it comes from. If KIplatz doesn't know something, it says so instead of making something up.
+- Chats, memory and files stay on your device. The server removes email addresses, phone numbers and account numbers from a question before it goes to a PC in the community. General knowledge questions and their checked answers are kept encrypted and without names, so the next identical question is answered right away. KIplatz also learns from them, [explained openly](https://kiplatz.com/how-kiplatz-learns/); if you don't want that, switch off "My questions help KIplatz learn". The details are in the [privacy policy](https://kiplatz.com/privacy/).
+- On your phone you ask at [kiplatz.at/app](https://kiplatz.at/app/), and with "Ask your home" you get files from your PC at home, without a cloud.
+- What your computer works out for others shows up on the [leaderboard](https://kiplatz.com/leaderboard/), with your team from a club, school or group of friends if you like. The figures for the whole community are in the [statistics](https://kiplatz.com/statistics/).
+- The server is in Vienna, and language and knowledge are made for Austria, Germany and Switzerland. The program and the app are available in English and German.
 
-## Mitbauen passiert bei uns
+How it all works is explained in the [wiki](https://kiplatz.com/wiki/how-it-works/). What never happens is listed on [What never happens](https://kiplatz.com/what-never-happens/).
 
-Hier auf GitHub liegt nur das Schaufenster. Gebaut und geredet wird auf unseren eigenen Plätzen, mit einem Konto für alles.
+## Your PC, your limits
 
-| | Wo | Was du dort machst |
+The program runs on Windows 11. You decide when and how much your computer works for the community.
+
+<img src="bilder/en/programm-freigabe.png" alt="The program on a PC: the Share card, with when the computer may work for the community and sliders for computing power and memory" width="640">
+
+## Building happens on our own sites
+
+GitHub is only our shop window. Building and talking happen on our own sites, with one account for everything.
+
+| | Where | What you do there |
 |---|---|---|
-| **Mitreden** | [Platzl](https://forum.kiplatz.at/) | Fragen stellen, Tipps teilen, Skills schreiben und gemeinsam verbessern, eine Gruppe für Hochschule, Verein oder Hobby gründen |
-| **Mitbauen** | [Werkstatt](https://werkstatt.kiplatz.at/KIplatz/mitbauen) | Fehler melden, Ideen einbringen, Quellen vorschlagen, die Anleitungen verbessern, mit Vorlagen für alles |
-| **Mithelfen** | [Mithelfen](https://kiplatz.at/mitarbeit-gesucht/) | Testen, übersetzen, das Wiki verbessern oder den eigenen PC für die Community arbeiten lassen |
+| **Talk** | [Forum (Platzl)](https://forum.kiplatz.at/?tl=en) | Ask questions, share tips, write skills and improve them together, start a group for your university, club or hobby |
+| **Build** | [Workshop](https://werkstatt.kiplatz.at/KIplatz/mitbauen?lang=en-US) | Report bugs, bring in ideas, suggest sources, improve the guides, with templates for everything |
+| **Help** | [Help wanted](https://kiplatz.com/help-wanted/) | Test, translate, improve the wiki or let your own PC work for the community |
 
-**Konto:** kostenlos, mit E-Mail-Adresse oder Google, gilt für Platzl, Werkstatt und Programm. [Konto anlegen](https://werkstatt.kiplatz.at/user/sign_up)
+**Account:** free, with an email address or Google, and it works for the forum, the workshop and the program. [Create an account](https://werkstatt.kiplatz.at/user/sign_up?lang=en-US). Most conversations there are in German so far; you're welcome to write in English.
 
-### Vom ersten Skill bis zum Bauteil
+### From your first skill to a component
 
-| Stufe | Was du tust | Wo es sichtbar wird |
+| Level | What you do | Where it shows |
 |---|---|---|
-| 1 | Regeln als Skill schreiben und teilen | Skill-Sammlung im Platzl |
-| 2 | Einen Fehler melden | Fehler der Woche, Antwort auf deine Meldung |
-| 3 | Eine Quelle einbringen | gemeinsames Wissen |
-| 4 | Eine Behebung oder Prüfung vorschlagen | eigene Meldung, Neuigkeiten |
-| 5 | Ein Bauteil mitbauen | Jahresbrief |
+| 1 | Write rules as a skill and share them | Skill collection in the forum |
+| 2 | Report a mistake | Mistake of the week, a reply to your report |
+| 3 | Suggest a source | Shared knowledge |
+| 4 | Suggest a fix or a check | Your own report, news |
+| 5 | Build a component along | Annual letter |
 
-Programmieren musst du dafür nicht können, ein Skill ist in 10 Minuten geschrieben: [Vorlage und Anleitung](skills/SKILL-SCHREIBEN.md). Wer etwas beiträgt, steht auf Wunsch mit Namen auf [Wer mitbaut](https://kiplatz.at/wer-mitbaut/). Die ganze Anleitung steht im [Wiki, Kapitel Mitbauen](https://kiplatz.at/wiki/mitbauen/).
+You don't need to know how to program, a skill is written in 10 minutes: [template and guide](skills/SKILL-SCHREIBEN.md) (in German). Anyone who contributes can be listed by name on [Who builds](https://kiplatz.com/who-builds/). The full guide is in the [wiki, chapter Build along](https://kiplatz.com/wiki/build-along/).
 
-**Eine Sicherheitslücke gefunden?** Bitte vertraulich, siehe [SECURITY.md](SECURITY.md).
+**Found a security hole?** Please report it confidentially, see [SECURITY.md](SECURITY.md).
 
-## Skills, Werkzeuge und Doku in diesem Repository
+## Skills, tools and docs in this repository
 
-| Ordner | Inhalt |
+| Folder | Contents |
 |---|---|
-| [`skills`](skills/) | Fertige Skills zum Verwenden und Verbessern, etwa „Brief ans Amt“ oder „Rechnung prüfen“, dazu die [Vorlage für deinen eigenen](skills/SKILL-SCHREIBEN.md) |
-| [`docs`](docs/) | [Erste Schritte](docs/hilfe.md) mit Verweisen ins Wiki und die KI-Schnittstelle am eigenen PC im Format von OpenAI |
-| [`werkzeuge`](werkzeuge/) | Hardware-Check („Was schafft mein PC?“), Skill-Prüfer und Anleitungen für Continue, Open WebUI und Jan |
-| [`NEUERUNGEN.md`](NEUERUNGEN.md) | Was jede Version des Programms neu kann, in den Sätzen, die das Programm nach einem Update zeigt |
+| [`skills`](skills/) | Ready-made skills to use and improve, for example "Letter to an authority" or "Check an invoice", and the [template for your own](skills/SKILL-SCHREIBEN.md). The skills are written in German. |
+| [`docs`](docs/) | [Getting started](docs/hilfe.md) with links to the wiki, and the AI interface on your own PC in OpenAI format (in German; in English in the [wiki for developers](https://kiplatz.com/wiki/for-developers/)) |
+| [`werkzeuge`](werkzeuge/) | Hardware check ("What can my PC handle?"), skill checker and guides for Continue, Open WebUI and Jan (in German) |
+| [Releases](https://github.com/KIplatz/kiplatz/releases) | What each version of the program brings, in English. In German: [`NEUERUNGEN.md`](NEUERUNGEN.md) |
 
-Der Quelltext von Programm und Server liegt nicht hier. Das Programm kommt fertig gebaut und unterschrieben von [kiplatz.at](https://kiplatz.at/rechenkraft-teilen/).
+The source code of the program and the server is not in this repository. The program comes ready-built and signed from [kiplatz.com](https://kiplatz.com/share-computing/).
 
-## Lizenz
+## License
 
-Texte, Anleitungen und Skills in diesem Repository stehen unter [CC BY 4.0](LICENSE). Du darfst sie frei verwenden, ändern und weitergeben, auch beruflich, solange du KIplatz als Quelle nennst und auf die Lizenz verweist. Zum Beispiel: „Skill rechnung-pruefen von KIplatz, CC BY 4.0, kiplatz.at“.
+Texts, guides and skills in this repository are licensed under [CC BY 4.0](LICENSE). You may use, change and share them freely, also at work, as long as you name KIplatz as the source and refer to the license. For example: "Skill rechnung-pruefen by KIplatz, CC BY 4.0, kiplatz.com".
 
-Die Code-Beispiele in [`docs`](docs/) und die [Werkzeuge](werkzeuge/) stehen unter der [MIT-Lizenz](LICENSE-CODE). Du kannst sie ohne Umstände in deine eigenen Programme übernehmen.
+The code samples in [`docs`](docs/) and the [tools](werkzeuge/) are licensed under the [MIT License](LICENSE-CODE). You can use them in your own programs without any fuss.
 
-Nicht erfasst sind der Name KIplatz, das Logo und die Bilder im Ordner `bilder`. Die Lizenzen geben kein Recht, sie zu verwenden, etwa für ein eigenes Produkt oder Projekt. Das Programm selbst liegt nicht in diesem Repository und steht unter keiner dieser Lizenzen. Alle übrigen Rechte bleiben bei KIplatz.
-
----
-
-### In English
-
-KIplatz is an AI owned by its community. Answers come from the members' own computers, not from a data centre; the server in Vienna only passes questions on, and the computer that answers never learns who asked. This repository holds ready-to-use skills and the documentation for the local, OpenAI-compatible interface. Building happens on our own places: talk in the [Platzl](https://forum.kiplatz.at/), report bugs, ideas and sources in the [Werkstatt](https://werkstatt.kiplatz.at/KIplatz/mitbauen), one free account for everything. More at [kiplatz.at/en](https://kiplatz.at/en/).
-
-Texts, guides and skills are licensed under [CC BY 4.0](LICENSE), code samples and the tools in `werkzeuge` under the [MIT License](LICENSE-CODE). The name KIplatz, the logo and the images in `bilder` are not covered by these licenses. The program itself is not part of this repository.
+Not covered are the name KIplatz, the logo and the images in the `bilder` folder. The licenses give no right to use them, for example for a product or project of your own. The program itself is not in this repository and is not covered by either license. All other rights remain with KIplatz.

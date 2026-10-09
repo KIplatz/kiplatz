@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Fehler melden oder etwas beitragen
-    url: https://werkstatt.kiplatz.at/KIplatz/mitbauen
-    about: Fehler, Skills und Quellen nimmt die Werkstatt entgegen.
-  - name: Fragen und Ideen
-    url: https://forum.kiplatz.at/
-    about: Mitreden im Platzl.
-  - name: Sicherheitslücke
-    url: https://kiplatz.at/sicherheitsluecke-melden/
-    about: Bitte vertraulich an support@kiplatz.at, nie öffentlich.
+  - name: Report a mistake or contribute (Fehler melden oder etwas beitragen)
+    url: https://werkstatt.kiplatz.at/KIplatz/mitbauen?lang=en-US
+    about: Mistakes, skills and sources go to our workshop. Fehler, Skills und Quellen nimmt die Werkstatt entgegen.
+  - name: Questions and ideas (Fragen und Ideen)
+    url: https://forum.kiplatz.at/?tl=en
+    about: Talk with us in the forum (Platzl). Mitreden im Platzl.
+  - name: Security hole (Sicherheitslücke)
+    url: https://kiplatz.com/report-a-security-hole/
+    about: Please confidentially to support@kiplatz.at, never in public. Bitte vertraulich an support@kiplatz.at, nie öffentlich.

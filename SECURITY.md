@@ -1,4 +1,16 @@
-# Sicherheitslücke melden
+# Reporting a security hole
+
+You found a weakness in KIplatz? Thank you for telling us first.
+
+Please **don't** report it here as an issue or in the forum, but confidentially by email to **support@kiplatz.at** with the subject "Security". Describe what you found, where, and how to reproduce it.
+
+We'll get back to you as soon as we can and let you know once the hole is closed. If you stick to these rules, we consider you to be acting in good faith and won't take legal action against you.
+
+More: [kiplatz.com/report-a-security-hole](https://kiplatz.com/report-a-security-hole/)
+
+---
+
+## Auf Deutsch: Sicherheitslücke melden
 
 Du hast bei KIplatz eine Schwachstelle gefunden? Danke, dass du sie uns zuerst sagst.
 
