@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 10. Oktober 2026
 
+- Kommt in deiner Frage ein Name vor, den KIplatz nicht kennt, sucht es jetzt gleich im Internet danach. Findet es nichts Verlässliches, sagt es das ehrlich, statt etwas Passendes zu erfinden.
+- Tippst du im Programm eine Frage, legt dein PC seine Arbeit im Hintergrund sofort weg, damit die Antwort schneller kommt. Was du tippst, bleibt dabei auf deinem Gerät.
 - KIplatz versteht jetzt die kurzen Befehle, die man oft tippt. „Kürzer“, „als Liste“, „weiter“ oder „auf Englisch“ formen die letzte Antwort um, ohne neu zu suchen, und „bist du sicher?“ oder „das stimmt nicht“ lassen es frisch nachprüfen.
 - Auf „danke“ antwortet KIplatz sofort, und wer um ein Bild oder Logo bittet, erfährt ehrlich, dass es das noch nicht zeichnen kann.
 - Schreibst du „such live“ oder „schau im Internet nach“, sucht KIplatz jetzt frisch nach deiner Sache, nicht nach dem Wort „live“. Sagst du dazu, dass die Antwort nicht stimmt, antwortet es neu und wiederholt die falsche nicht.
