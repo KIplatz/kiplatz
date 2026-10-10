@@ -2,6 +2,8 @@
 
 Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach einem Update selbst zeigt. Neueste zuerst. Updates kommen von selbst und sind unterschrieben.
 
+Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
+
 ## 10. Oktober 2026
 
 - Ist das Programm auf Englisch gestellt, kommen jetzt auch der Tagesbericht, die Angaben unter „Woher“ und die Meldungen beim Holen von Dateien ganz auf Englisch.
