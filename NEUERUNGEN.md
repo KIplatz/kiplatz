@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 10. Oktober 2026
 
+- Schreibst du „such nach …“, sucht KIplatz genau danach und mischt keine Angaben aus früheren Nachrichten dazu.
+- Ein Klick auf „Neues Gespräch“ legt kein weiteres leeres Gespräch mehr an, leere Gespräche stehen nicht mehr in der Liste, und das KIplatz-Logo oben links führt wieder zum Start.
 - Fragst du nach Tipps zu einem Spiel oder einem Vorhaben, sucht KIplatz jetzt auch dann im Wissen und im Internet, wenn ein PC aus der Community antwortet. Bei „such live nach …“ sucht es genau das, was du nennst.
 - Kommt in deiner Frage ein Name vor, den KIplatz nicht kennt, sucht es jetzt gleich im Internet danach. Findet es nichts Verlässliches, sagt es das ehrlich, statt etwas Passendes zu erfinden.
 - Tippst du im Programm eine Frage, legt dein PC seine Arbeit im Hintergrund sofort weg, damit die Antwort schneller kommt. Was du tippst, bleibt dabei auf deinem Gerät.
