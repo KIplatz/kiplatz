@@ -6,6 +6,9 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 10. Oktober 2026
 
+- KIplatz versteht jetzt die kurzen Befehle, die man oft tippt. „Kürzer“, „als Liste“, „weiter“ oder „auf Englisch“ formen die letzte Antwort um, ohne neu zu suchen, und „bist du sicher?“ oder „das stimmt nicht“ lassen es frisch nachprüfen.
+- Auf „danke“ antwortet KIplatz sofort, und wer um ein Bild oder Logo bittet, erfährt ehrlich, dass es das noch nicht zeichnen kann.
+- Schreibst du „such live“ oder „schau im Internet nach“, sucht KIplatz jetzt frisch nach deiner Sache, nicht nach dem Wort „live“. Sagst du dazu, dass die Antwort nicht stimmt, antwortet es neu und wiederholt die falsche nicht.
 - Während KIplatz schreibt, verschwindet die Antwort nicht mehr kurz und springt nicht mehr. Der Entwurf steht gleich mit Absätzen da, und kommt die geprüfte Fassung, bleibst du an der Stelle, an der du gerade liest.
 - Ist das Programm auf Englisch gestellt, kommen jetzt auch der Tagesbericht, die Angaben unter „Woher“ und die Meldungen beim Holen von Dateien ganz auf Englisch.
 - Schickst du ein Bild kurz nach dem Start der KI, lädt der Bild-Zusatz jetzt zuverlässig; vorher konnte die KI dabei ausgehen.
