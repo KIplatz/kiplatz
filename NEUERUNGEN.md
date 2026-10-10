@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 10. Oktober 2026
 
+- Während KIplatz schreibt, verschwindet die Antwort nicht mehr kurz und springt nicht mehr. Der Entwurf steht gleich mit Absätzen da, und kommt die geprüfte Fassung, bleibst du an der Stelle, an der du gerade liest.
 - Ist das Programm auf Englisch gestellt, kommen jetzt auch der Tagesbericht, die Angaben unter „Woher“ und die Meldungen beim Holen von Dateien ganz auf Englisch.
 - Schickst du ein Bild kurz nach dem Start der KI, lädt der Bild-Zusatz jetzt zuverlässig; vorher konnte die KI dabei ausgehen.
 - Die Internetsuche fällt seltener aus: Bremst eine Suchmaschine, fragt KIplatz von selbst andere, statt „die Suche ist nicht durchgekommen“ zu sagen.
