@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 11. Oktober 2026
 
+- KIplatz rechnet jetzt auch für Amerika und England: km/h in mph, Meilen, Pfund, Unzen, Gallonen, Fahrenheit, Dollar und Pfund, und antwortet auf Englisch, wenn man auf Englisch fragt. In der Küche gehen jetzt Cups, Unzen und Backofen-Grad.
 - Der Hinweis auf einen berichtigten Tippfehler steht bei Aufzählungen jetzt in einer eigenen Zeile unter der Antwort.
 - Findet die Internetsuche wirklich nichts, sagt KIplatz das jetzt ehrlich.
 - Tippt man eine Einheit falsch, etwa „milimeter“, liest KIplatz sie trotzdem richtig und sagt es dazu. Und eine richtig gerechnete Umrechnung verschwindet nicht mehr hinterher durch den Satz „Das weiß ich noch nicht“.
