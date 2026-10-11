@@ -4,6 +4,10 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 12. Oktober 2026
+
+- Neu ist das Wiki: Du schlägst eine bessere Antwort mit Quelle vor, andere stimmen ab, und ab 5 Ja gilt sie für alle.
+
 ## 11. Oktober 2026
 
 - KIplatz rechnet jetzt auch für Amerika und England: km/h in mph, Meilen, Pfund, Unzen, Gallonen, Fahrenheit, Dollar und Pfund, und antwortet auf Englisch, wenn man auf Englisch fragt. In der Küche gehen jetzt Cups, Unzen und Backofen-Grad.
