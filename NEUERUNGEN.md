@@ -4,6 +4,10 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 11. Oktober 2026
+
+- KIplatz rechnet jetzt selbst und genau, statt zu raten. „789 mm in dm, cm und mm“, „3/4 + 1/6“, „20 % MwSt auf 120 €“, „100 Euro in Dollar“ oder „Wie viele Tage bis Weihnachten?“ beantwortet es sofort und richtig, meist mit Rechenweg.
+
 ## 10. Oktober 2026
 
 - Schreibst du „such nach …“, sucht KIplatz genau danach und mischt keine Angaben aus früheren Nachrichten dazu.
