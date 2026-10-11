@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 11. Oktober 2026
 
+- KIplatz rechnet jetzt noch mehr selbst und genau, statt zu raten: „Es ist 18 Uhr in Wien, wie spät in New York?“, „2x + 6 = 20“ mit Probe, „5.000 € zu 3 % auf 10 Jahre“, die Kreditrate, „2 Brote zu 3,40 € und 1 Käse zu 5,90 €, ich zahle mit 20 €“, die Spritkosten einer Fahrt, Trinkgeld und Rechnung teilen, ein Rezept für mehr Personen, „2 EL Mehl in Gramm“ und „3.000 € brutto in netto“ für Österreich (ein Überschlag, kein Lohnzettel). „1,5 Mio Euro in Dollar“ klappt jetzt auch.
 - KIplatz rechnet jetzt selbst und genau, statt zu raten. „789 mm in dm, cm und mm“, „3/4 + 1/6“, „20 % MwSt auf 120 €“, „100 Euro in Dollar“ oder „Wie viele Tage bis Weihnachten?“ beantwortet es sofort und richtig, meist mit Rechenweg.
 
 ## 10. Oktober 2026
