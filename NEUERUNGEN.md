@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 13. Oktober 2026
 
+- Der Liveticker versteht jetzt auch „Barca Live Spielstand“, „CL“ oder klein geschriebene Vereinsnamen und findet Bayern München, Rapid oder Salzburg auch dann, wenn die Datenbank sie anders schreibt.
 - Der Server kann neue Funktionen einzeln freischalten; das Programm zeigt sie erst dann.
 - Der Quelltext von Programm und App ist offen, Lizenz GNU AGPL 3. Unter „Über KIplatz“ im Programm und in den Einstellungen der App steht, wo du ihn findest: kiplatz.at/quelltext.
 - Die Probefrage auf der Website darf mehr, je mehr PCs gerade online sind: Besucher ohne Konto bekommen pro Tag und alle zusammen pro Stunde so viele Fragen, wie die Community gerade hergibt.
