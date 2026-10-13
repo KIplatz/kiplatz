@@ -13,6 +13,8 @@
 
 [English](README.md) · Deutsch
 
+**Der Quelltext von Programm und App ist offen** (GNU AGPL 3): [KIplatz/kiplatz-code](https://github.com/KIplatz/kiplatz-code). Dieses Repository hier ist das Schaufenster: Neuerungen, Skills, Anleitungen und Werkzeuge.
+
 [kiplatz.at](https://kiplatz.at/) · [Programm holen](https://kiplatz.at/rechenkraft-teilen/) · [Am Handy](https://kiplatz.at/app/) · [Mitreden im Platzl](https://forum.kiplatz.at/) · [Mitbauen in der Werkstatt](https://werkstatt.kiplatz.at/) · [Wiki](https://kiplatz.at/wiki/)
 
 **Tester für die Android-App gesucht.** Bevor die KIplatz-App im Play Store erscheint, verlangt Google einen Test: 12 Personen laden sie herunter und verwenden sie 14 Tage lang wie im Alltag. Es kostet nichts, und du musst nichts Besonderes können. Melde dich im Platzl: https://forum.kiplatz.at/t/kiplatz-fuer-android-wir-suchen-12-tester-fuer-unsere-app/34

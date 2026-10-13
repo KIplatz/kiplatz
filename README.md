@@ -13,6 +13,8 @@
 
 English · [Deutsch](README.de.md)
 
+**The source code of the program and the app is open** (GNU AGPL 3): [KIplatz/kiplatz-code](https://github.com/KIplatz/kiplatz-code). This repository here is the showcase: what's new, skills, guides and tools.
+
 [kiplatz.com](https://kiplatz.com/) · [Get the program](https://kiplatz.com/share-computing/) · [On your phone](https://kiplatz.at/app/) · [Forum (Platzl)](https://forum.kiplatz.at/?tl=en) · [Workshop](https://werkstatt.kiplatz.at/KIplatz/mitbauen?lang=en-US) · [Wiki](https://kiplatz.com/wiki/)
 
 **Testers wanted for the Android app.** Before the KIplatz app appears in the Play Store, Google requires a test: 12 people download it and use it for 14 days in everyday life. It costs nothing and you don't need any special skills. Sign up in the forum (the thread is in German): https://forum.kiplatz.at/t/kiplatz-fuer-android-wir-suchen-12-tester-fuer-unsere-app/34
