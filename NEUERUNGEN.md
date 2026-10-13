@@ -6,7 +6,9 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 12. Oktober 2026
 
+- Auch bei Unbekanntem sagt KIplatz jetzt ehrlich, wenn die Suche nichts findet.
 - Neu ist das Wiki: Du schlägst eine bessere Antwort mit Quelle vor, andere stimmen ab, und ab 5 Ja gilt sie für alle.
+- Allgemeine Optimierungen wurden durchgeführt.
 
 ## 11. Oktober 2026
 
