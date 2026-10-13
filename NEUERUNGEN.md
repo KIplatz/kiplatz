@@ -4,8 +4,18 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 13. Oktober 2026
+
+- Der Server kann neue Funktionen einzeln freischalten; das Programm zeigt sie erst dann.
+- Der Quelltext von Programm und App ist offen, Lizenz GNU AGPL 3. Unter „Über KIplatz“ im Programm und in den Einstellungen der App steht, wo du ihn findest: kiplatz.at/quelltext.
+- Die Probefrage auf der Website darf mehr, je mehr PCs gerade online sind: Besucher ohne Konto bekommen pro Tag und alle zusammen pro Stunde so viele Fragen, wie die Community gerade hergibt.
+- KIplatz hat jetzt einen Liveticker: Frag nach dem Spielstand, und du bekommst den Livescore aus Fußball, Eishockey, NFL und NBA, dazu Spielpläne, Ergebnisse und die nächsten Formel-1-Termine.
+- Zum Beispiel: „Wie steht es bei Sturm Graz?“, „Wer spielt heute in der Bundesliga?“ oder „Wann ist das nächste Formel-1-Rennen?“ Die Antwort sagt dazu, von wann der Stand ist.
+- „Meine KI“ kennt jetzt Fachgebiete: Wer Programmieren, Web oder KI am eigenen PC wählt, bekommt bei passenden Fragen zuerst Fundstellen aus geprüften Quellen, der Python-Dokumentation, den MDN Web Docs und der Ollama-Dokumentation, mit der Quelle unter der Antwort.
+
 ## 12. Oktober 2026
 
+- Antwortest du auf die Rückfragen zu einem Brief oder einer Rechnung mit „weiter“, schreibt KIplatz ihn jetzt wirklich, mit Lücken für das Offene.
 - Auch bei Unbekanntem sagt KIplatz jetzt ehrlich, wenn die Suche nichts findet.
 - Neu ist das Wiki: Du schlägst eine bessere Antwort mit Quelle vor, andere stimmen ab, und ab 5 Ja gilt sie für alle.
 - Allgemeine Optimierungen wurden durchgeführt.
