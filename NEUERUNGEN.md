@@ -4,6 +4,11 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 14. Oktober 2026
+
+- Die ersten 100 PCs, die für andere mithelfen, sind Gründungsmitglieder: Die Nummer steht in der Bestenliste, in deiner Geräteliste und als Abzeichen im Platzl, und sie bleibt.
+- Allgemeine Optimierungen wurden durchgeführt.
+
 ## 13. Oktober 2026
 
 - Spielstände nennen die Vereine jetzt so, wie wir sie sagen: Inter Mailand, AC Mailand, Bayern München, Rapid Wien, und die Ligen heißen Deutsche Bundesliga oder Europameisterschaft.
