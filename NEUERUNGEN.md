@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 14. Oktober 2026
 
+- Unter einer belegten Antwort stehen jetzt alle Quellen, aus denen sie stammt, auch wenn im Text keine Quellennummer dabeisteht.
+- Fragen nach Orten in deiner Nähe nutzen wieder deinen Wohnort aus den drei Fragen beim ersten Start.
 - Die ersten 100 PCs, die für andere mithelfen, sind Gründungsmitglieder: Die Nummer steht in der Bestenliste, in deiner Geräteliste und als Abzeichen im Platzl, und sie bleibt.
 - Allgemeine Optimierungen wurden durchgeführt.
 
