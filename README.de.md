@@ -13,6 +13,8 @@
 
 [English](README.md) · Deutsch
 
+> Der Code von Programm und App liegt in [KIplatz/kiplatz-code](https://github.com/KIplatz/kiplatz-code). Wenn dir KIplatz gefällt, hilft ein Stern dort am meisten.
+
 **Der Quelltext von Programm und App ist offen** (GNU AGPL 3): [KIplatz/kiplatz-code](https://github.com/KIplatz/kiplatz-code). Dieses Repository hier ist das Schaufenster: Neuerungen, Skills, Anleitungen und Werkzeuge.
 
 [kiplatz.at](https://kiplatz.at/) · [Programm holen](https://kiplatz.at/rechenkraft-teilen/) · [Am Handy](https://kiplatz.at/app/) · [Mitreden im Platzl](https://forum.kiplatz.at/) · [Mitbauen in der Werkstatt](https://werkstatt.kiplatz.at/) · [Wiki](https://kiplatz.at/wiki/)

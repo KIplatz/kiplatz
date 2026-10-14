@@ -13,6 +13,8 @@
 
 English · [Deutsch](README.de.md)
 
+> The code of the program and the app is in [KIplatz/kiplatz-code](https://github.com/KIplatz/kiplatz-code). If you like KIplatz, a star there helps most.
+
 **The source code of the program and the app is open** (GNU AGPL 3): [KIplatz/kiplatz-code](https://github.com/KIplatz/kiplatz-code). This repository here is the showcase: what's new, skills, guides and tools.
 
 [kiplatz.com](https://kiplatz.com/) · [Get the program](https://kiplatz.com/share-computing/) · [On your phone](https://kiplatz.at/app/) · [Forum (Platzl)](https://forum.kiplatz.at/?tl=en) · [Workshop](https://werkstatt.kiplatz.at/KIplatz/mitbauen?lang=en-US) · [Wiki](https://kiplatz.com/wiki/)
