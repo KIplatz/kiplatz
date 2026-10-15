@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 15. Oktober 2026
 
+- Fragen nach Preisen und Regeln erarbeitet immer ein PC neu, statt eine gespeicherte Antwort zu nehmen; Preise und Regeln ändern sich.
+- Auch Fragen wie „Tempolimit auf deutschen Autobahnen“ sucht KIplatz jetzt gleich im Internet, mit den amtlichen Stellen vorn.
 - Bei Fragen nach Regeln liest KIplatz zuerst amtliche Stellen und Automobilclubs, etwa oesterreich.gv.at oder den ÖAMTC.
 - Fragst du nach einem Land, fallen Seiten aus einem anderen Land weg, auch wenn sie das Land nicht beim Namen nennen; so kommt keine deutsche Regel mehr in eine Antwort über Österreich.
 - Einfügen über die rechte Maustaste funktioniert jetzt zuverlässig; KIplatz drückt dafür Strg+V für dich und liest die Zwischenablage nicht selbst.
