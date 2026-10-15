@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 15. Oktober 2026
 
+- Eine Antwort erscheint jetzt einmal und fertig geprüft; ein Entwurf, der sich danach noch ändert, steht nicht mehr im Fenster, Schritt und Sekunden zeigen, woran KIplatz arbeitet.
+- Findet die erste Suche nichts Verlässliches, sucht KIplatz von selbst ein zweites Mal mit eigenen Suchwörtern, ohne dass du „Ja, live nachprüfen“ drücken musst.
 - Rechen- und Alltagsfragen wie Umrechnungen, Prozent oder Backzeiten bekommen wieder eine Antwort, wo vorher manchmal „Das weiß ich noch nicht“ stand.
 - Nennt ein Satz eine Quelle beim Namen, schreibt KIplatz ihr nichts mehr zu, was nur in einer anderen Quelle steht.
 - Fragst du nach einem bestimmten Land, zählen Fundstellen über ein anderes Land nicht mehr als Quelle, für Österreich genauso wie für Deutschland, die Schweiz, Großbritannien oder die USA.
