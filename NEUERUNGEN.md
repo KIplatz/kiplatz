@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 15. Oktober 2026
 
+- Einfügen über die rechte Maustaste funktioniert jetzt zuverlässig; KIplatz drückt dafür Strg+V für dich und liest die Zwischenablage nicht selbst.
+- Bei Fragen nach einer Regel nennt KIplatz zuerst, was gilt, und bei Preisen jede Variante, etwa 7 Tage, Monat und Jahr.
 - Muss KIplatz einen Satz einer Antwort streichen, schreibt es die Antwort einmal ganz neu; ein Rest ohne Anfang wird nie ausgegeben.
 - Preise nennt KIplatz nur aus Seiten des laufenden Jahres.
 - Im Programmfenster öffnet die rechte Maustaste jetzt ein Menü mit Rückgängig, Ausschneiden, Kopieren, Einfügen und Alles auswählen.
