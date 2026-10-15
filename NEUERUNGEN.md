@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 15. Oktober 2026
 
+- Geprüfte Antworten sind schneller: der zweite Blick auf Zahlen und Namen liest die Quellen nicht mehr jedes Mal neu ein.
 - Muss KIplatz eine Antwort neu schreiben, schreibt es sie gleich in eigenen Worten; das spart einen Durchgang und es fallen keine Sätze mehr weg.
 - In den Details zur Antwort steht jetzt, wie lange jeder Schritt gedauert hat, etwa die Suche im Internet und das Prüfen.
 - Fragen nach Preisen und Regeln erarbeitet immer ein PC neu, statt eine gespeicherte Antwort zu nehmen; Preise und Regeln ändern sich.
