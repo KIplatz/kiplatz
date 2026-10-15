@@ -4,6 +4,10 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 15. Oktober 2026
+
+- Allgemeine Optimierungen wurden durchgeführt.
+
 ## 14. Oktober 2026
 
 - Unter einer belegten Antwort stehen jetzt alle Quellen, aus denen sie stammt, auch wenn im Text keine Quellennummer dabeisteht.
