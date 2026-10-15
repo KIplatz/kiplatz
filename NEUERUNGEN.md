@@ -6,6 +6,10 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 15. Oktober 2026
 
+- Rechen- und Alltagsfragen wie Umrechnungen, Prozent oder Backzeiten bekommen wieder eine Antwort, wo vorher manchmal „Das weiß ich noch nicht“ stand.
+- Nennt ein Satz eine Quelle beim Namen, schreibt KIplatz ihr nichts mehr zu, was nur in einer anderen Quelle steht.
+- Fragst du nach einem bestimmten Land, zählen Fundstellen über ein anderes Land nicht mehr als Quelle, für Österreich genauso wie für Deutschland, die Schweiz, Großbritannien oder die USA.
+- Einen Preis nennt KIplatz nur noch mit einer aktuellen Quelle, nie aus dem Gedächtnis.
 - Allgemeine Optimierungen wurden durchgeführt.
 
 ## 14. Oktober 2026
