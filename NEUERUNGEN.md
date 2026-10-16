@@ -4,6 +4,10 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 16. Oktober 2026
+
+- Neue Fassungen unserer KI werden jetzt verlässlich nachts geprüft, bevor sie zu euch kommen; fällt eine Nacht aus, wird die Prüfung nachgeholt.
+
 ## 15. Oktober 2026
 
 - Erfundene Fachbegriffe wie „Mertens-Lindauer-Theorem“ erkennt KIplatz jetzt auch, wenn jeder Teil echt klingt; es sucht dann im Internet und sagt ehrlich, wenn es nichts findet.
