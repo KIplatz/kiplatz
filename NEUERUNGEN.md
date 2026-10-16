@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 16. Oktober 2026
 
+- Die Prüfung von KIplatz fragt die Suchmaschinen jetzt immer in ruhigem Takt, auch wenn sie von Hand gestartet wird; so bleibt die Suche für alle frei.
 - Neue Fassungen unserer KI werden jetzt verlässlich nachts geprüft, bevor sie zu euch kommen; fällt eine Nacht aus, wird die Prüfung nachgeholt.
 
 ## 15. Oktober 2026
