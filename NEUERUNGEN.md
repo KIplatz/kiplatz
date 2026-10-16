@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 16. Oktober 2026
 
+- KIplatz kennt österreichische Wörter: Wer fragt, was Paradeiser, Feber, ein Kasten oder ein Haberer ist, bekommt die richtige Bedeutung und das schneller als bisher.
+- Fragen wie „Wer spielt die Hauptrolle in Titanic?“, „Warum gibt es Gewitter?“, „Wie erstelle ich eine E-Mail-Adresse?“ oder „Wie viele Tage sind es vom 1. März bis zum 1. Juni?“ bekommen jetzt eine richtige Antwort statt einer falschen Rückfrage.
 - Die Prüfung von KIplatz sucht wieder im Internet, solange genug Suchmaschinen frei sind, und stellt Fragen, deren Suche nicht durchkam, am Ende noch einmal; so misst sie die KI und nicht die Suchmaschinen.
 - Fragen wie „Wie funktioniert das Lotto in Österreich?“ bekommen wieder eine echte Antwort statt einer Erklärung, wie KIplatz arbeitet.
 - Die nächtliche Prüfung merkt sich ihre Suchergebnisse eine Woche lang und lässt die Suche aus, wenn Suchmaschinen gerade Pause machen; so bleibt die Suche für eure Fragen frei.
