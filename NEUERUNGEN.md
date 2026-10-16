@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 16. Oktober 2026
 
+- Fängt ein Gespräch mit „Mach es kürzer“ oder „Ist das gesund?“ an, fragt KIplatz sofort nach, worum es geht, statt etwas zu erraten.
 - Englische Fragen mit einem deutschen Wort, etwa „What are Erdäpfel?“ oder „Up to what age do children travel free with ÖBB?“, bekommen jetzt eine englische Antwort.
 - KIplatz kennt österreichische Wörter: Wer fragt, was Paradeiser, Feber, ein Kasten oder ein Haberer ist, bekommt die richtige Bedeutung und das schneller als bisher.
 - Fragen wie „Wer spielt die Hauptrolle in Titanic?“, „Warum gibt es Gewitter?“, „Wie erstelle ich eine E-Mail-Adresse?“ oder „Wie viele Tage sind es vom 1. März bis zum 1. Juni?“ bekommen jetzt eine richtige Antwort statt einer falschen Rückfrage.
