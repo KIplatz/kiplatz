@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 16. Oktober 2026
 
+- Fragen wie „Wie funktioniert das Lotto in Österreich?“ bekommen wieder eine echte Antwort statt einer Erklärung, wie KIplatz arbeitet.
+- Die nächtliche Prüfung merkt sich ihre Suchergebnisse eine Woche lang und lässt die Suche aus, wenn Suchmaschinen gerade Pause machen; so bleibt die Suche für eure Fragen frei.
 - Die Prüfung von KIplatz fragt die Suchmaschinen jetzt immer in ruhigem Takt, auch wenn sie von Hand gestartet wird; so bleibt die Suche für alle frei.
 - Neue Fassungen unserer KI werden jetzt verlässlich nachts geprüft, bevor sie zu euch kommen; fällt eine Nacht aus, wird die Prüfung nachgeholt.
 
