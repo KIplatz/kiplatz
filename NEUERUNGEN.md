@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 17. Oktober 2026
 
+- Fragt jemand nach einer Person, über die keine gefundene Seite etwas sagt, schreibt KIplatz nicht über jemand anderen, sondern sagt ehrlich, dass es nichts Verlässliches weiß.
+- Antworten auf Alltagsfragen kommen oft schneller: KIplatz streicht keinen richtigen Satz mehr, nur weil darin ein gewöhnliches Wort wie „Einstellung“ oder „Familie“ steht.
 - Fragen wie „Was soll ich tun, wenn die Sicherung immer wieder rausfliegt?“ bekommen jetzt gleich eine Antwort statt Rückfragen.
 - Englische Fragen nach österreichischen Wörtern wie „What does 'Feber' mean?“ kommen jetzt richtig an und bekommen die richtige Bedeutung.
 
