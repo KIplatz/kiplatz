@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 17. Oktober 2026
 
+- Fragen wie „Was soll ich tun, wenn die Sicherung immer wieder rausfliegt?“ bekommen jetzt gleich eine Antwort statt Rückfragen.
+- Englische Fragen nach österreichischen Wörtern wie „What does 'Feber' mean?“ kommen jetzt richtig an und bekommen die richtige Bedeutung.
 
 ## 16. Oktober 2026
 
