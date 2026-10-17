@@ -4,6 +4,9 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 17. Oktober 2026
+
+
 ## 16. Oktober 2026
 
 - Fängt ein Gespräch mit „Mach es kürzer“ oder „Ist das gesund?“ an, fragt KIplatz sofort nach, worum es geht, statt etwas zu erraten.
