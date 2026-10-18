@@ -6,6 +6,14 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 18. Oktober 2026
 
+- Fragen zu Einreise, Visum, Regeln und Ämtern beantwortet KIplatz jetzt in jedem Land der Welt mit dem, was die Behörden dort aktuell sagen, und Feiertage erkennt es auch beim Namen, etwa Memorial Day.
+- Englische Datumsangaben auf Webseiten zählen jetzt als Beleg, eine Jahreszahl muss zur Sache passen, und auf der Startseite passen die Farben je Satz zum gezeigten Text.
+- Englische Fragen kommen jetzt sauber übersetzt bei KIplatz an: Fragst du nach dem Tempolimit oder nach einem Rezept, bekommst du die Antwort statt „I don't know yet“.
+- Rezepte behalten ihre Mengen, auch wenn KIplatz zum Gericht nur nebenbei etwas gefunden hat, und Listen bleiben ordentlich, wenn ein unsicherer Satz wegfällt.
+- Was nach seiner Stadt heißt, findet KIplatz jetzt beim Namen: „Wer hat das Riesenrad in Wien gebaut?“ führt zum Wiener Riesenrad.
+- Die Feiertage eines deutschen Bundeslands nennt KIplatz jetzt vollständig und nur mit den Hinweisen, die für dieses Land gelten.
+- Auf Englisch bleiben Namen von Apotheken, Lokalen und Straßen, wie sie sind, damit du sie vor Ort findest.
+- Wer KIplatz auf Englisch nutzt, kann sein Konto jetzt löschen: zur Bestätigung gilt „delete“ genauso wie „löschen“.
 - Auf Geräten ohne passende Grafikkarte steht oben jetzt „Community antwortet“ statt „KI aus“, und die Einstellungen sagen, warum die eigene KI dort am besten aus bleibt.
 - Feiertage anderer Länder nennt KIplatz jetzt vollständig und mit ihrem deutschen Namen.
 - Eine Antwort, an der KIplatz Sätze weglassen musste, gibt es nicht mehr fertig für alle: die nächste Frage bekommt eine frisch erarbeitete.
