@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 18. Oktober 2026
 
+- „Frag dein Zuhause“ versteht jetzt auch englische Fragen wie „Where is my CV?“: Antwort, Dateiart und Ordner kommen auf Englisch, und die Karte am PC ist ganz auf Englisch.
 - Fragen zu Einreise, Visum, Regeln und Ämtern beantwortet KIplatz jetzt in jedem Land der Welt mit dem, was die Behörden dort aktuell sagen, und Feiertage erkennt es auch beim Namen, etwa Memorial Day.
 - Englische Datumsangaben auf Webseiten zählen jetzt als Beleg, eine Jahreszahl muss zur Sache passen, und auf der Startseite passen die Farben je Satz zum gezeigten Text.
 - Englische Fragen kommen jetzt sauber übersetzt bei KIplatz an: Fragst du nach dem Tempolimit oder nach einem Rezept, bekommst du die Antwort statt „I don't know yet“.
