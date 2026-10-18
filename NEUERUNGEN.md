@@ -4,12 +4,30 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 18. Oktober 2026
+
+- Auf Geräten ohne passende Grafikkarte steht oben jetzt „Community antwortet“ statt „KI aus“, und die Einstellungen sagen, warum die eigene KI dort am besten aus bleibt.
+- Feiertage anderer Länder nennt KIplatz jetzt vollständig und mit ihrem deutschen Namen.
+- Eine Antwort, an der KIplatz Sätze weglassen musste, gibt es nicht mehr fertig für alle: die nächste Frage bekommt eine frisch erarbeitete.
+- Beispiele wie „zum Beispiel GMX oder Gmail“ bleiben in der Antwort, wenn es die Namen wirklich gibt.
+- Bei gleichnamigen Orten meint KIplatz die bekannte Stadt, außer du nennst das Land: „Apotheken in Passau“ findet jetzt die Stadt Passau.
+- Termine wie den ersten Advent, Ostern oder die Zeitumstellung rechnet KIplatz jetzt selbst aus, für das Jahr, nach dem du fragst.
+- Feiertage kennt KIplatz jetzt weltweit: Fragst du nach Frankreich oder den USA, bekommst du die Feiertage dieses Landes, nicht die österreichischen.
+- Erklärungen behalten ihre Beispiele, und lässt KIplatz einen unsicheren Satz weg, bleibt keine Lücke mehr in der Antwort.
+- Orte in Deutschland: Dein PC liest die Karte jetzt auch dann fertig ein, wenn du zwischendurch an ihm arbeitest.
+- Antworten auf Alltagsfragen verlieren seltener Sätze: Gewöhnliche Wörter wie „Eimer“ oder „Passwort“ hält KIplatz nicht mehr für erfundene Namen.
+
 ## 17. Oktober 2026
 
+- Kurze Fragen in Kleinschreibung wie „erklär mir die inflation“ bekommen gleich eine Antwort statt der Rückfrage, worauf du dich beziehst.
+- Fragen wie „Wer war der erste Mensch im Weltall?“ beantwortet KIplatz wieder, auch wenn die Quelle ein anderes Wort wie „Weltraum“ verwendet.
+- Der Liveticker ist wieder draußen. Fragen nach Spielständen sucht KIplatz im Internet, und Alltagsfragen gelten nicht mehr als Sportfragen.
+- Hängt eine Antwort, holt sich KIplatz ein Update trotzdem nach spätestens zehn Minuten.
 - Fragt jemand nach einer Person, über die keine gefundene Seite etwas sagt, schreibt KIplatz nicht über jemand anderen, sondern sagt ehrlich, dass es nichts Verlässliches weiß.
 - Antworten auf Alltagsfragen kommen oft schneller: KIplatz streicht keinen richtigen Satz mehr, nur weil darin ein gewöhnliches Wort wie „Einstellung“ oder „Familie“ steht.
 - Fragen wie „Was soll ich tun, wenn die Sicherung immer wieder rausfliegt?“ bekommen jetzt gleich eine Antwort statt Rückfragen.
 - Englische Fragen nach österreichischen Wörtern wie „What does 'Feber' mean?“ kommen jetzt richtig an und bekommen die richtige Bedeutung.
+- Allgemeine Optimierungen wurden durchgeführt.
 
 ## 16. Oktober 2026
 
