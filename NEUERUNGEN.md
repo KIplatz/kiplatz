@@ -4,8 +4,18 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 19. Oktober 2026
+
+- Fragst du nach einem Termin mit Jahreszahl oder „this year“, antwortet KIplatz aus dem Kalender statt mit „nicht sicher“.
+- Allgemeine Optimierungen wurden durchgeführt.
+
 ## 18. Oktober 2026
 
+- Wann in den USA, in Kanada, Großbritannien, Australien oder Neuseeland die Uhr umgestellt wird, rechnet KIplatz jetzt selbst aus, und fragst du nach einem Termin „heuer“ oder „this year“, bekommst du den Tag dieses Jahres, auch wenn er schon vorbei ist.
+- Fällt bei einer Anleitung oder einem Rezept ein Schritt bei der Prüfung weg, gibt KIplatz die Antwort nicht mehr mit einer Lücke aus, sondern schreibt sie neu oder sucht weiter.
+- Wer KIplatz auf Englisch nutzt, bekommt jetzt alles auf Englisch: den Morgenbericht mit Schlagzeilen aus dem eigenen Land, die zehn Skill-Vorlagen und das Gedächtnis mit „Remember: …“, und vorgelesen wird mit einer englischen Stimme.
+- Englische Antworten klingen jetzt natürlich statt Wort für Wort übersetzt, und bei englischen Fragen zu Ländern außerhalb des deutschen Sprachraums sucht KIplatz auf Englisch und findet so die Seiten der Behörden dort.
+- Knöpfe und Hinweise heißen auf Englisch jetzt in Programm, App und Website gleich und klingen natürlich.
 - „Frag dein Zuhause“ versteht jetzt auch englische Fragen wie „Where is my CV?“: Antwort, Dateiart und Ordner kommen auf Englisch, und die Karte am PC ist ganz auf Englisch.
 - Fragen zu Einreise, Visum, Regeln und Ämtern beantwortet KIplatz jetzt in jedem Land der Welt mit dem, was die Behörden dort aktuell sagen, und Feiertage erkennt es auch beim Namen, etwa Memorial Day.
 - Englische Datumsangaben auf Webseiten zählen jetzt als Beleg, eine Jahreszahl muss zur Sache passen, und auf der Startseite passen die Farben je Satz zum gezeigten Text.
@@ -25,6 +35,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 - Erklärungen behalten ihre Beispiele, und lässt KIplatz einen unsicheren Satz weg, bleibt keine Lücke mehr in der Antwort.
 - Orte in Deutschland: Dein PC liest die Karte jetzt auch dann fertig ein, wenn du zwischendurch an ihm arbeitest.
 - Antworten auf Alltagsfragen verlieren seltener Sätze: Gewöhnliche Wörter wie „Eimer“ oder „Passwort“ hält KIplatz nicht mehr für erfundene Namen.
+- Allgemeine Optimierungen wurden durchgeführt.
 
 ## 17. Oktober 2026
 
