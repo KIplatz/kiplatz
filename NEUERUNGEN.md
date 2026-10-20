@@ -4,6 +4,17 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 20. Oktober 2026
+
+- Auf Linux und am Mac mit Apple-Chip gibt es jetzt den Helfer: ohne Fenster arbeitet dein Rechner still für die Community mit.
+- Der Helfer läuft als Dienst deines Benutzers, nie mit erhöhten Rechten, und bekommt dieselben unterschriebenen Updates wie das Programm.
+- Der Quelltext des Helfers ist offen wie der von Programm und App, und die Anleitung mit allen Befehlen steht auf kiplatz.at/linux-und-mac.
+- Dein PC kommt jetzt mit deinem KIplatz-Konto zur Community dazu, wie die App: im Programm „Mit KIplatz-Konto dazukommen“ anklicken, im Browser anmelden und „Einen neuen PC verbinden?“ bestätigen. Einen Code brauchst du dafür nicht mehr.
+- Am Linux-Rechner oder Mac zeigt „kiplatz-helfer status“ jetzt, was der Helfer gerade tut: ob er online ist, welches Modell läuft, wie viele Fragen er beantwortet hat, seine Credits und mit wem er seit dem Start verbunden war. Dazu schreibt er ein Protokoll in klaren Sätzen.
+- Unter jeder Antwort steht jetzt richtig, wo nachgeschlagen wurde. Hat ein anderer PC der Community geantwortet, sagt KIplatz das, statt „auf diesem Gerät“.
+- Die englische Oberfläche ist vollständiger: Fehlermeldungen und Hinweise zum Stand des Programms kommen jetzt auf Englisch, große Zahlen mit Komma statt Punkt.
+- Deine Daten liegen jetzt im Ordner KIplatz unter AppData. Das Programm zieht sie beim Update einmal selbst dorthin um, nichts geht verloren.
+
 ## 19. Oktober 2026
 
 - Fragst du nach einem Termin mit Jahreszahl oder „this year“, antwortet KIplatz aus dem Kalender statt mit „nicht sicher“.
