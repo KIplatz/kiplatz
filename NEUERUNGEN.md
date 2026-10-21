@@ -4,9 +4,13 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 21. Oktober 2026
+
+- Bei „Ja, live nachprüfen“ sucht KIplatz jetzt immer im Internet, auch wenn ein Berg oder Ort mit diesem Namen schon auf der Karte steht.
+
 ## 20. Oktober 2026
 
-- Endet eine Antwort mit einer Frage wie „Gibt es noch etwas dazu?“, nimmt KIplatz sie jetzt weg. Eine Rückfrage, weil etwas fehlt, bleibt stehen.
+- Endet eine Antwort mit einer Frage wie „Gibt es noch etwas dazu?“, nimmt KIplatz sie jetzt weg. Eine Rückfrage, weil eine Angabe zur Frage nötig ist, bleibt stehen.
 - In der App führt Zurückwischen jetzt immer ins vorherige Menü, nicht mehr auf die Startseite, und „Meine KI“ steht nicht mehr über der Fragezeile.
 - Auf Linux und am Mac mit Apple-Chip gibt es jetzt den Helfer: ohne Fenster arbeitet dein Rechner still für die Community mit.
 - Der Helfer läuft als Dienst deines Benutzers, nie mit erhöhten Rechten, und bekommt dieselben unterschriebenen Updates wie das Programm.
