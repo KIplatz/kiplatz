@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 24. Oktober 2026
 
+- Neu: Häng eine Excel-Datei an, und KIplatz liest jede Tabelle darin, mit Datum statt Zahlencode. Frag dann zum Beispiel, wofür du am meisten ausgegeben hast. Das gilt in der App, im Programm und auf kiplatz.at.
 - Neu: Frag „Darf KI meine Website lesen?“ mit der Adresse dazu, und KIplatz sagt dir je KI-Programm, ob es die Seite für Antworten oder fürs Training lesen darf, so wie es in der robots.txt steht.
 - Antworten, die KIplatz ohne KI-Modell selbst erarbeitet, etwa Rechnungen oder Prüfungen, stehen auf der Website jetzt auch so da.
 - Neu: KIplatz prüft deinen Prompt. Schreib „Prüf meinen Prompt:“ und füge deine Anweisung an, dann siehst du sofort, welche von acht Angaben fehlen, etwa Rolle, Länge oder Ton, und ob persönliche Daten drinstehen.
