@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 24. Oktober 2026
 
+- Videos mit Kurznamen erscheinen jetzt auch als Karte: Wer nach dem Trailer von „GTA VI“ fragt, bekommt das Video „Grand Theft Auto VI“, und nie eines zu GTA V. Ein Link in der Antwort bleibt stehen, auch wenn KIplatz den Satz daneben in eigenen Worten schreibt.
 - Der Preisvergleich findet jetzt die echten Shops: KIplatz liest jeden Preis so, wie ihn der Shop selbst für Suchmaschinen angibt, und zeigt jeden Händler mit seinem Preis. Preisvergleichsseiten und Zahlungsdienste stehen nicht mehr als Anbieter in der Tabelle.
 - Hast du ein Angebot als Foto angehängt, steht es jetzt als eigene Zeile in der Tabelle, mit Baujahr, wenn es draufsteht. So siehst du gleich, ob es woanders günstiger geht.
 - Sperrt ein Shop nur das Sammeln für KI-Training, liest KIplatz seine Seite für deine Frage, lernt aber nie daraus. Wer KIplatz das Lesen verbietet, wird weiter nicht gelesen.
@@ -13,6 +14,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 - Willst du ein Video sehen, etwa „Zeig mir Gameplay zu Enshrouded“, zeigt KIplatz es dir direkt in der Antwort, mit Vorschaubild. Abgespielt wird erst nach deinem Klick, vorher geht nichts an YouTube. Das gilt in der App, im Programm und auf kiplatz.at.
 - Fragst du nach dem günstigsten Anbieter, vergleicht KIplatz jetzt mehrere Shops und zeigt dir eine Tabelle nach Preis. Jeder Preis muss auf der Seite dieses Shops stehen, sonst fliegt die Zeile raus. Die Funktion ist neu, wir verbessern sie laufend.
 - Häng ein Foto oder ein PDF an und sag „such das im Internet“: KIplatz liest den Text darauf und sucht genau nach dem, was dort steht, etwa nach dem Reifen auf deinem Screenshot.
+- Allgemeine Optimierungen wurden durchgeführt.
 
 ## 21. Oktober 2026
 
