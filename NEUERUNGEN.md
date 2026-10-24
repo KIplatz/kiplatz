@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 24. Oktober 2026
 
+- Neu: KIplatz prüft deinen Prompt. Schreib „Prüf meinen Prompt:“ und füge deine Anweisung an, dann siehst du sofort, welche von acht Angaben fehlen, etwa Rolle, Länge oder Ton, und ob persönliche Daten drinstehen.
 - Sagt eine Antwort, auf welchen Wochentag ein Datum fällt, rechnet KIplatz das jetzt selbst nach und berichtigt einen falschen Tag.
 - Vergleichst du Strom, Gas, Flüge, Zugtickets oder Hotels, fragt KIplatz zuerst nach dem, wovon der Preis abhängt: bei Strom nach Postleitzahl und Jahresverbrauch, bei Reisen nach dem Datum. Dann vergleicht es mit Preisen, die für dich gelten, statt mit Beispielrechnungen.
 - Bei Strom und Gas in Österreich steht unter dem Vergleich jetzt auch der Link zum amtlichen Tarifkalkulator der E-Control.
