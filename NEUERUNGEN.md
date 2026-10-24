@@ -4,6 +4,13 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 24. Oktober 2026
+
+- Steht ein Video als Karte unter der Antwort, schreibt KIplatz nicht mehr darüber, es könne das Video hier nicht zeigen.
+- Willst du ein Video sehen, etwa „Zeig mir Gameplay zu Enshrouded“, zeigt KIplatz es dir direkt in der Antwort, mit Vorschaubild. Abgespielt wird erst nach deinem Klick, vorher geht nichts an YouTube. Das gilt in der App, im Programm und auf kiplatz.at.
+- Fragst du nach dem günstigsten Anbieter, vergleicht KIplatz jetzt mehrere Shops und zeigt dir eine Tabelle nach Preis. Jeder Preis muss auf der Seite dieses Shops stehen, sonst fliegt die Zeile raus. Die Funktion ist neu, wir verbessern sie laufend.
+- Häng ein Foto oder ein PDF an und sag „such das im Internet“: KIplatz liest den Text darauf und sucht genau nach dem, was dort steht, etwa nach dem Reifen auf deinem Screenshot.
+
 ## 21. Oktober 2026
 
 - Bei „Ja, live nachprüfen“ sucht KIplatz jetzt immer im Internet, auch wenn ein Berg oder Ort mit diesem Namen schon auf der Karte steht.
