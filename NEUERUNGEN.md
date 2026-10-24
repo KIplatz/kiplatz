@@ -6,6 +6,9 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 24. Oktober 2026
 
+- Der Preisvergleich findet jetzt die echten Shops: KIplatz liest jeden Preis so, wie ihn der Shop selbst für Suchmaschinen angibt, und zeigt jeden Händler mit seinem Preis. Preisvergleichsseiten und Zahlungsdienste stehen nicht mehr als Anbieter in der Tabelle.
+- Hast du ein Angebot als Foto angehängt, steht es jetzt als eigene Zeile in der Tabelle, mit Baujahr, wenn es draufsteht. So siehst du gleich, ob es woanders günstiger geht.
+- Sperrt ein Shop nur das Sammeln für KI-Training, liest KIplatz seine Seite für deine Frage, lernt aber nie daraus. Wer KIplatz das Lesen verbietet, wird weiter nicht gelesen.
 - Steht ein Video als Karte unter der Antwort, schreibt KIplatz nicht mehr darüber, es könne das Video hier nicht zeigen.
 - Willst du ein Video sehen, etwa „Zeig mir Gameplay zu Enshrouded“, zeigt KIplatz es dir direkt in der Antwort, mit Vorschaubild. Abgespielt wird erst nach deinem Klick, vorher geht nichts an YouTube. Das gilt in der App, im Programm und auf kiplatz.at.
 - Fragst du nach dem günstigsten Anbieter, vergleicht KIplatz jetzt mehrere Shops und zeigt dir eine Tabelle nach Preis. Jeder Preis muss auf der Seite dieses Shops stehen, sonst fliegt die Zeile raus. Die Funktion ist neu, wir verbessern sie laufend.
