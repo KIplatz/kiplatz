@@ -6,6 +6,9 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 24. Oktober 2026
 
+- Vergleichst du Strom, Gas, Flüge, Zugtickets oder Hotels, fragt KIplatz zuerst nach dem, wovon der Preis abhängt: bei Strom nach Postleitzahl und Jahresverbrauch, bei Reisen nach dem Datum. Dann vergleicht es mit Preisen, die für dich gelten, statt mit Beispielrechnungen.
+- Bei Strom und Gas in Österreich steht unter dem Vergleich jetzt auch der Link zum amtlichen Tarifkalkulator der E-Control.
+- Der Preisvergleich sucht jetzt in dem Land, in dem du kaufst, von Deutschland und Italien bis Großbritannien und den USA. Steht das Land nicht in deiner Frage, fragt KIplatz kurz danach.
 - Videos mit Kurznamen erscheinen jetzt auch als Karte: Wer nach dem Trailer von „GTA VI“ fragt, bekommt das Video „Grand Theft Auto VI“, und nie eines zu GTA V. Ein Link in der Antwort bleibt stehen, auch wenn KIplatz den Satz daneben in eigenen Worten schreibt.
 - Der Preisvergleich findet jetzt die echten Shops: KIplatz liest jeden Preis so, wie ihn der Shop selbst für Suchmaschinen angibt, und zeigt jeden Händler mit seinem Preis. Preisvergleichsseiten und Zahlungsdienste stehen nicht mehr als Anbieter in der Tabelle.
 - Hast du ein Angebot als Foto angehängt, steht es jetzt als eigene Zeile in der Tabelle, mit Baujahr, wenn es draufsteht. So siehst du gleich, ob es woanders günstiger geht.
