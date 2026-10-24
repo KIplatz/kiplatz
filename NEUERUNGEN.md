@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 24. Oktober 2026
 
+- Sagt eine Antwort, auf welchen Wochentag ein Datum fällt, rechnet KIplatz das jetzt selbst nach und berichtigt einen falschen Tag.
 - Vergleichst du Strom, Gas, Flüge, Zugtickets oder Hotels, fragt KIplatz zuerst nach dem, wovon der Preis abhängt: bei Strom nach Postleitzahl und Jahresverbrauch, bei Reisen nach dem Datum. Dann vergleicht es mit Preisen, die für dich gelten, statt mit Beispielrechnungen.
 - Bei Strom und Gas in Österreich steht unter dem Vergleich jetzt auch der Link zum amtlichen Tarifkalkulator der E-Control.
 - Der Preisvergleich sucht jetzt in dem Land, in dem du kaufst, von Deutschland und Italien bis Großbritannien und den USA. Steht das Land nicht in deiner Frage, fragt KIplatz kurz danach.
