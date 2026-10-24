@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 24. Oktober 2026
 
+- Neu: Frag „Darf KI meine Website lesen?“ mit der Adresse dazu, und KIplatz sagt dir je KI-Programm, ob es die Seite für Antworten oder fürs Training lesen darf, so wie es in der robots.txt steht.
+- Antworten, die KIplatz ohne KI-Modell selbst erarbeitet, etwa Rechnungen oder Prüfungen, stehen auf der Website jetzt auch so da.
 - Neu: KIplatz prüft deinen Prompt. Schreib „Prüf meinen Prompt:“ und füge deine Anweisung an, dann siehst du sofort, welche von acht Angaben fehlen, etwa Rolle, Länge oder Ton, und ob persönliche Daten drinstehen.
 - Sagt eine Antwort, auf welchen Wochentag ein Datum fällt, rechnet KIplatz das jetzt selbst nach und berichtigt einen falschen Tag.
 - Vergleichst du Strom, Gas, Flüge, Zugtickets oder Hotels, fragt KIplatz zuerst nach dem, wovon der Preis abhängt: bei Strom nach Postleitzahl und Jahresverbrauch, bei Reisen nach dem Datum. Dann vergleicht es mit Preisen, die für dich gelten, statt mit Beispielrechnungen.
