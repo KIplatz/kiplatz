@@ -7,6 +7,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 ## 25. Oktober 2026
 
 - Neu im Programm: Über das Plus fügst du mehrere PDFs am PC zu einer zusammen, etwa Anschreiben, Lebenslauf und Zeugnisse für eine Bewerbung. Die Dateien verlassen deinen PC dabei nicht.
+- Neu in der App: Auch am Handy fügst du über das Plus mehrere PDFs zu einer zusammen und sicherst oder teilst sie gleich. Die Dateien verlassen dein Handy dabei nicht.
 - Fehlt bei einer Frage zur Flugverspätung nur der Abflug oder nur das Ziel, fragt KIplatz jetzt nur danach.
 - Neu: Frag „Mein Flug von Wien nach London war 4 Stunden verspätet, was steht mir zu?“, und KIplatz rechnet dir nach der EU-Verordnung für Fluggastrechte aus, ob dir 250, 400 oder 600 € zustehen. Fehlt die Strecke oder die Verspätung, fragt KIplatz kurz nach.
 - Allgemeine Optimierungen wurden durchgeführt.
