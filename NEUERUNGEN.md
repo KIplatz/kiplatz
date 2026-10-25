@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 25. Oktober 2026
 
+- Der Preisvergleich funktioniert jetzt in jedem Land und jeder Sprache: Fragst du auf Italienisch, Französisch, Spanisch oder Japanisch nach dem günstigsten Preis, sucht KIplatz bei den Händlern dort und zeigt die Preise in der Währung des Landes, ob Euro, Dollar, Pfund, Franken oder Yen.
+- Fragst du nach günstigeren Alternativen, etwa zu deinem Reifen auf dem Foto, zeigt die Tabelle andere Produkte in derselben Größe, jedes mit seinem Namen. Und als Händler zählt nur, wer wirklich verkauft, keine Nachrichtenseite und kein Preisverlauf. Neu, wir verbessern es laufend.
 - Fragst du, wo ein bestimmtes Gerät oder ein Reifen am günstigsten ist, liest KIplatz jetzt die Händlerlisten der Preisvergleiche und die Seiten der Shops selbst. In der Tabelle steht nur, was es genau in deiner Größe oder Variante gibt, neu und nicht gebraucht, und daneben, wo der Preis geprüft wurde.
 - Findet KIplatz für genau dein Modell keinen Händler mit Preis, sagt es dir das ehrlich und nennt dir Preisvergleiche zum Weitersuchen, statt einen Preis für etwas anderes hinzuschreiben. Neu, wir verbessern es laufend.
 - Hängst du ein Foto oder mehrere an und fragst nur „Wo ist das günstiger?“ oder „Welcher hat die besten Tests?“, sucht KIplatz jetzt genau die Dinge auf deinen Fotos, jedes für sich, auch nach einer Rückfrage nach dem Land.
