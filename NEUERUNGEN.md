@@ -6,7 +6,6 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 25. Oktober 2026
 
-- Wissensfragen beantwortet KIplatz jetzt aus der Suche im Internet, wie die großen KI-Dienste, und nicht mehr aus einer Kopie eines Lexikons auf dem PC, die oft veraltet oder falsch war. Richtige Antworten mit gewöhnlichen Wörtern streicht die Prüfung nicht mehr.
 - Die Seitenleiste mit deinen Gesprächen ziehst du jetzt mit der Maus breiter oder schmaler, im Programm und in der App am großen Bildschirm, damit lange Titel ganz zu sehen sind. Ein Doppelklick auf den Rand stellt die normale Breite wieder her, KIplatz merkt sich deine Breite.
 - Fotos, die quer oder auf dem Kopf liegen, liest die App jetzt richtig: Ist sich die Texterkennung unsicher, dreht sie das Foto und liest es noch einmal, etwa die Seite aus dem Schulbuch, die du quer fotografiert hast.
 - Schickst du ein Foto oder eine Datei mit einem Auftrag, etwa „Schreibe mir Punkt 1“ zur Seite aus dem Schulbuch, „Übersetze das“ oder „Fasse den Brief zusammen“, erledigt KIplatz genau das aus deinem Anhang, statt im Internet zu suchen. Und es antwortet immer in der Sprache, in der du schreibst, egal welche Sprache auf dem Foto steht.
