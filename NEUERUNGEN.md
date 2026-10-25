@@ -4,6 +4,10 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 26. Oktober 2026
+
+- Fragst du auf Englisch zu einem Thema außerhalb des deutschen Sprachraums, etwa „Who was Mozart?“ oder „Do I need a visa for Japan?“, schreibt KIplatz die Antwort jetzt gleich auf Englisch, statt sie erst auf Deutsch zu erarbeiten und dann zu übersetzen. Das geht schneller, und in Programm und App siehst du die Antwort schon beim Schreiben.
+
 ## 25. Oktober 2026
 
 - Stellst du auf kiplatz.at eine Frage, ist sie jetzt als erste dran, vor allen anderen. Und während der PC die Antwort erarbeitet, siehst du auf der deutschen Seite gleich, was er gerade tut, etwa dass er im Internet nachschaut.
