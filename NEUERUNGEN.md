@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 25. Oktober 2026
 
+- Stellst du auf kiplatz.at eine Frage, ist sie jetzt als erste dran, vor allen anderen. Und während der PC die Antwort erarbeitet, siehst du auf der deutschen Seite gleich, was er gerade tut, etwa dass er im Internet nachschaut.
+- Schickst du deine Frage ab, während die App ein Foto noch liest, geht sie jetzt von selbst los, sobald das Foto gelesen ist. Fotos liest die App deutlich schneller, und was dabei passiert, steht direkt über dem Eingabefeld. Steht auf einem Foto kein Text, sagt sie dir das nach wenigen Sekunden.
 - Die Seitenleiste mit deinen Gesprächen ziehst du jetzt mit der Maus breiter oder schmaler, im Programm und in der App am großen Bildschirm, damit lange Titel ganz zu sehen sind. Ein Doppelklick auf den Rand stellt die normale Breite wieder her, KIplatz merkt sich deine Breite.
 - Fotos, die quer oder auf dem Kopf liegen, liest die App jetzt richtig: Ist sich die Texterkennung unsicher, dreht sie das Foto und liest es noch einmal, etwa die Seite aus dem Schulbuch, die du quer fotografiert hast.
 - Schickst du ein Foto oder eine Datei mit einem Auftrag, etwa „Schreibe mir Punkt 1“ zur Seite aus dem Schulbuch, „Übersetze das“ oder „Fasse den Brief zusammen“, erledigt KIplatz genau das aus deinem Anhang, statt im Internet zu suchen. Und es antwortet immer in der Sprache, in der du schreibst, egal welche Sprache auf dem Foto steht.
