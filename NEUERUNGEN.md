@@ -4,6 +4,10 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 25. Oktober 2026
+
+- Neu: Frag „Mein Flug von Wien nach London war 4 Stunden verspätet, was steht mir zu?“, und KIplatz rechnet dir nach der EU-Verordnung für Fluggastrechte aus, ob dir 250, 400 oder 600 € zustehen. Fehlt die Strecke oder die Verspätung, fragt KIplatz kurz nach.
+
 ## 24. Oktober 2026
 
 - Neu: Häng eine Excel-Datei an, und KIplatz liest jede Tabelle darin, mit Datum statt Zahlencode. Frag dann zum Beispiel, wofür du am meisten ausgegeben hast. Das gilt in der App, im Programm und auf kiplatz.at.
