@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 25. Oktober 2026
 
+- Fragst du, wo ein bestimmtes Gerät oder ein Reifen am günstigsten ist, liest KIplatz jetzt die Händlerlisten der Preisvergleiche und die Seiten der Shops selbst. In der Tabelle steht nur, was es genau in deiner Größe oder Variante gibt, neu und nicht gebraucht, und daneben, wo der Preis geprüft wurde.
+- Findet KIplatz für genau dein Modell keinen Händler mit Preis, sagt es dir das ehrlich und nennt dir Preisvergleiche zum Weitersuchen, statt einen Preis für etwas anderes hinzuschreiben. Neu, wir verbessern es laufend.
 - Hängst du ein Foto oder mehrere an und fragst nur „Wo ist das günstiger?“ oder „Welcher hat die besten Tests?“, sucht KIplatz jetzt genau die Dinge auf deinen Fotos, jedes für sich, auch nach einer Rückfrage nach dem Land.
 - Neu im Programm: Unter „Ansicht“ machst du alles größer oder kleiner, mit Strg und Plus, Strg und Minus oder Strg und 0. Das Fenster ordnet sich dabei neu, nichts steht über und nichts wird abgeschnitten. KIplatz merkt sich die Größe.
 - Die Menüleiste im Programm ist neu geordnet, in Datei, Bearbeiten, Ansicht, Gehe zu und Hilfe, mit den Tastenkürzeln daneben und einem Häkchen bei allem, was eingeschaltet ist. Dazu kommen Vollbild mit F11 und ein neues Gespräch mit Strg und N.
