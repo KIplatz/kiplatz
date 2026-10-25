@@ -6,7 +6,9 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 25. Oktober 2026
 
+- Fehlt bei einer Frage zur Flugverspätung nur der Abflug oder nur das Ziel, fragt KIplatz jetzt nur danach.
 - Neu: Frag „Mein Flug von Wien nach London war 4 Stunden verspätet, was steht mir zu?“, und KIplatz rechnet dir nach der EU-Verordnung für Fluggastrechte aus, ob dir 250, 400 oder 600 € zustehen. Fehlt die Strecke oder die Verspätung, fragt KIplatz kurz nach.
+- Allgemeine Optimierungen wurden durchgeführt.
 
 ## 24. Oktober 2026
 
