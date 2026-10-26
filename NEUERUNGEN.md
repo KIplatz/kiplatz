@@ -13,6 +13,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 - Wer wissen will, wie „I come from Austria“ auf Deutsch heißt, bekommt jetzt den deutschen Satz und die Erklärung dazu in seiner Sprache.
 - Unter der Antwort auf eine englische Frage stehen die Suchtreffer jetzt als „Search results“, auf der Website, in der App und im Programm.
 - Viele Fragen wie „Who was Mozart?“ oder „Do I need a visa for Japan?“ beantwortet KIplatz jetzt gleich so, wie du gefragt hast, ohne Umweg über eine Übersetzung. Das geht schneller, und in Programm und App siehst du den Text schon beim Schreiben.
+- Allgemeine Optimierungen wurden durchgeführt.
 
 ## 25. Oktober 2026
 
