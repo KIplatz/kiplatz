@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 26. Oktober 2026
 
+- Fragst du, ob ein bestimmter Tag ein Feiertag ist, rechnet KIplatz das jetzt für Österreich, für Deutschland samt Bundesland und für viele andere Länder aus. Gilt ein Feiertag nur in einem Teil des Landes, sagt es dir das dazu.
 - Wer wissen will, wie „I come from Austria“ auf Deutsch heißt, bekommt jetzt den deutschen Satz und die Erklärung dazu in seiner Sprache.
 - Unter der Antwort auf eine englische Frage stehen die Suchtreffer jetzt als „Search results“, auf der Website, in der App und im Programm.
 - Viele Fragen wie „Who was Mozart?“ oder „Do I need a visa for Japan?“ beantwortet KIplatz jetzt gleich so, wie du gefragt hast, ohne Umweg über eine Übersetzung. Das geht schneller, und in Programm und App siehst du den Text schon beim Schreiben.
