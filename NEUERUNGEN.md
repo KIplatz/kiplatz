@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 26. Oktober 2026
 
+- Fragst du auf Englisch nach deutschen Wörtern, etwa „Translate 'I come from Austria' into German“, bekommst du jetzt die deutschen Wörter und die Erklärung auf Englisch.
 - Unter einer englischen Antwort heißen die Suchtreffer jetzt auch auf Englisch „Search results“, auf der Website, in der App und im Programm.
 - Fragst du auf Englisch zu einem Thema außerhalb des deutschen Sprachraums, etwa „Who was Mozart?“ oder „Do I need a visa for Japan?“, schreibt KIplatz die Antwort jetzt gleich auf Englisch, statt sie erst auf Deutsch zu erarbeiten und dann zu übersetzen. Das geht schneller, und in Programm und App siehst du die Antwort schon beim Schreiben.
 
