@@ -6,6 +6,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 26. Oktober 2026
 
+- Fragst du auf Englisch nach dem Wetter („weather in London tomorrow“), bekommst du jetzt die Vorhersage, und Orte wie Vienna, Bavaria oder Upper Austria erkennt KIplatz auch auf Englisch.
 - Während KIplatz an deiner Antwort arbeitet, siehst du jetzt nur noch drei kurze Schritte: schaut nach, schreibt die Antwort, prüft die Antwort. Auf der englischen Website stehen sie jetzt auch auf Englisch da.
 - Fragst du, ob ein bestimmter Tag ein Feiertag ist, rechnet KIplatz das jetzt für Österreich, für Deutschland samt Bundesland und für viele andere Länder aus. Gilt ein Feiertag nur in einem Teil des Landes, sagt es dir das dazu.
 - Wer wissen will, wie „I come from Austria“ auf Deutsch heißt, bekommt jetzt den deutschen Satz und die Erklärung dazu in seiner Sprache.
