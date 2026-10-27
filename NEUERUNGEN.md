@@ -6,6 +6,9 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 27. Oktober 2026
 
+- Die PCs der Community beantworten jetzt nebenbei Wissensfragen im Voraus, die sich nicht ändern, etwa wer Mozart war oder wie hoch der Großglockner ist, aus aller Welt und auf Deutsch und Englisch. Ein zweiter PC liest die Quellen selbst nach und prüft jede Antwort, erst dann gilt sie für alle. Fragst du so etwas, kommt die Antwort danach sofort.
+- Ein Update von KIplatz verwirft die gesammelten Antworten nicht mehr alle auf einmal. Neu erarbeitet wird nur, was das Update wirklich betrifft.
+- Auch englische Fragen findet KIplatz jetzt in den gesammelten Antworten, egal ob du „Who is“ oder „Who was“ fragst. Fragen nach Wetter, Preisen oder nach dir selbst kommen nie aus diesem Speicher, auf Englisch genauso wie auf Deutsch.
 - „Meine Fragen helfen beim Lernen“ ist jetzt ab Werk aus. KIplatz lernt nur aus allgemeinen Wissensfragen von Mitgliedern, die den Haken selbst setzen, und was früher automatisch in die Lernliste kam, zählt nicht mehr.
 - Fragst du KIplatz, wie es lernt, wie klug es ist oder was es nicht kann, antwortet es jetzt aus seiner eigenen Beschreibung, statt etwas über sich zu erfinden.
 - Auf der Startseite steht jetzt deutlich: Bei uns passiert nichts heimlich.
