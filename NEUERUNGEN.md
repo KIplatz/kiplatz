@@ -4,6 +4,13 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 27. Oktober 2026
+
+- „Meine Fragen helfen beim Lernen“ ist jetzt ab Werk aus. KIplatz lernt nur aus allgemeinen Wissensfragen von Mitgliedern, die den Haken selbst setzen, und was früher automatisch in die Lernliste kam, zählt nicht mehr.
+- Fragst du KIplatz, wie es lernt, wie klug es ist oder was es nicht kann, antwortet es jetzt aus seiner eigenen Beschreibung, statt etwas über sich zu erfinden.
+- Auf der Startseite steht jetzt deutlich: Bei uns passiert nichts heimlich.
+- Läuft eine lange Antwort an ihre Grenze, endet sie jetzt beim letzten ganzen Satz. Vorher konnte am Schluss ein halber Satz wie „Ab 29.10.“ stehen bleiben, weil der Punkt im Datum als Satzende galt.
+
 ## 26. Oktober 2026
 
 - Fragst du auf Englisch nach Österreich, Deutschland oder der Schweiz, sucht KIplatz jetzt auf Englisch und antwortet direkt, ohne Umweg über eine Übersetzung. Feiertage rechnet es dafür auch auf Englisch aus.
