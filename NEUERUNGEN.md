@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 27. Oktober 2026
 
+- Das Programm begrüßt dich jetzt wie die App mit deinem Namen, etwa „Guten Abend, Maria“, und das Eingabefeld ist größer und ruhiger. Einen Skill wählst du, indem du im Feld mit „/“ beginnst, oder über das Plus.
+- Klappt eine Antwort nicht, steht darunter „Nochmal senden“. Deine Frage musst du nicht noch einmal tippen.
 - Bist du angemeldet, fragst du jetzt auch auf unserer Website so oft du willst, ohne Probefragen. Beim ersten Mal meldet sich dein Browser einmal mit deinem Konto an, danach steht er in deinem Konto bei den Geräten und lässt sich dort abmelden.
 - Unter einer Antwort steht jetzt nur noch eine Quelle, die wirklich vom Gefragten handelt. Vorher konnte bei „Was ist die Hauptstadt von Frankreich?“ die Seite über Bordeaux stehen, weil darin dieselben Wörter vorkamen.
 - Fragst du nach einem Namen, zählt eine Seite über jemanden mit ähnlichem Namen nicht mehr als Beleg, etwa „Ambrosi“ für „Ambros“. Heißen mehrere Menschen so, nennt KIplatz die anderen aus den Quellen dazu.
