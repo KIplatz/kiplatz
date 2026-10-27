@@ -6,6 +6,9 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 27. Oktober 2026
 
+- Bist du angemeldet, fragst du jetzt auch auf unserer Website so oft du willst, ohne Probefragen. Beim ersten Mal meldet sich dein Browser einmal mit deinem Konto an, danach steht er in deinem Konto bei den Geräten und lässt sich dort abmelden.
+- Unter einer Antwort steht jetzt nur noch eine Quelle, die wirklich vom Gefragten handelt. Vorher konnte bei „Was ist die Hauptstadt von Frankreich?“ die Seite über Bordeaux stehen, weil darin dieselben Wörter vorkamen.
+- Fragst du nach einem Namen, zählt eine Seite über jemanden mit ähnlichem Namen nicht mehr als Beleg, etwa „Ambrosi“ für „Ambros“. Heißen mehrere Menschen so, nennt KIplatz die anderen aus den Quellen dazu.
 - Die PCs der Community beantworten jetzt nebenbei Wissensfragen im Voraus, die sich nicht ändern, etwa wer Mozart war oder wie hoch der Großglockner ist, aus aller Welt und auf Deutsch und Englisch. Ein zweiter PC liest die Quellen selbst nach und prüft jede Antwort, erst dann gilt sie für alle. Fragst du so etwas, kommt die Antwort danach sofort.
 - Ein Update von KIplatz verwirft die gesammelten Antworten nicht mehr alle auf einmal. Neu erarbeitet wird nur, was das Update wirklich betrifft.
 - Auch englische Fragen findet KIplatz jetzt in den gesammelten Antworten, egal ob du „Who is“ oder „Who was“ fragst. Fragen nach Wetter, Preisen oder nach dir selbst kommen nie aus diesem Speicher, auf Englisch genauso wie auf Deutsch.
