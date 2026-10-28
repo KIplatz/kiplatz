@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 28. Oktober 2026
 
+- Im Programm wechselst du jetzt mit einem Klick zwischen den Konten, die auf diesem PC angemeldet waren. Jedes Konto hat dort seine eigenen Gespräche, Projekte, Skills und sein eigenes Gedächtnis, und der PC arbeitet dabei weiter für die Community.
+- Nach der Anmeldung im Programm bleibt der Browser auf der Seite „Angemeldet“ stehen und springt nicht mehr ins Platzl.
 - Im Kontomenü von Programm, Website, Platzl und Werkstatt steht jetzt „Konto wechseln“. Du wirst überall abgemeldet und wählst gleich danach das andere Konto.
 - „Abmelden“ auf der Website führt wieder zurück auf kiplatz.at. Vorher konnte es passieren, dass dich die Werkstatt gleich wieder anmelden wollte.
 - Steht ein Jahr so in der gefundenen Quelle, streicht die Prüfung es nicht mehr, nur weil derselbe Ort auch in einem Satz mit einem anderen Jahr vorkommt. Ein erfundenes Jahr fällt weiter.
