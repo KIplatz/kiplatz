@@ -6,6 +6,8 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 
 ## 28. Oktober 2026
 
+- Im Kontomenü von Programm, Website, Platzl und Werkstatt steht jetzt „Konto wechseln“. Du wirst überall abgemeldet und wählst gleich danach das andere Konto.
+- „Abmelden“ auf der Website führt wieder zurück auf kiplatz.at. Vorher konnte es passieren, dass dich die Werkstatt gleich wieder anmelden wollte.
 - Steht ein Jahr so in der gefundenen Quelle, streicht die Prüfung es nicht mehr, nur weil derselbe Ort auch in einem Satz mit einem anderen Jahr vorkommt. Ein erfundenes Jahr fällt weiter.
 - Sucht KIplatz im Internet, liest es jetzt immer auch die Seite, die die Suche ganz oben zeigt. Fragen wie „Seit wann gibt es den Europark in Salzburg?“ bekommen so eine Antwort statt „weiß ich nicht“.
 
