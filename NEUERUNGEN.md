@@ -4,8 +4,15 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 28. Oktober 2026
+
+- Steht ein Jahr so in der gefundenen Quelle, streicht die Prüfung es nicht mehr, nur weil derselbe Ort auch in einem Satz mit einem anderen Jahr vorkommt. Ein erfundenes Jahr fällt weiter.
+- Sucht KIplatz im Internet, liest es jetzt immer auch die Seite, die die Suche ganz oben zeigt. Fragen wie „Seit wann gibt es den Europark in Salzburg?“ bekommen so eine Antwort statt „weiß ich nicht“.
+
 ## 27. Oktober 2026
 
+- Die Symbole im Menü links unten sind größer, und ein aufgeklapptes Untermenü hebt sich ab, auch im dunklen Fenster.
+- Links unten im Programm zeigt das Menü jetzt, mit welchem Konto du angemeldet bist, und du meldest dich dort ab oder an. Dazu kommen Sprache, Hilfe, Neuigkeiten und Datenschutz, wie man es von anderen Programmen kennt.
 - Das Programm begrüßt dich jetzt wie die App mit deinem Namen, etwa „Guten Abend, Maria“, und das Eingabefeld ist größer und ruhiger. Einen Skill wählst du, indem du im Feld mit „/“ beginnst, oder über das Plus.
 - Klappt eine Antwort nicht, steht darunter „Nochmal senden“. Deine Frage musst du nicht noch einmal tippen.
 - Bist du angemeldet, fragst du jetzt auch auf unserer Website so oft du willst, ohne Probefragen. Beim ersten Mal meldet sich dein Browser einmal mit deinem Konto an, danach steht er in deinem Konto bei den Geräten und lässt sich dort abmelden.
@@ -18,6 +25,7 @@ Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.
 - Fragst du KIplatz, wie es lernt, wie klug es ist oder was es nicht kann, antwortet es jetzt aus seiner eigenen Beschreibung, statt etwas über sich zu erfinden.
 - Auf der Startseite steht jetzt deutlich: Bei uns passiert nichts heimlich.
 - Läuft eine lange Antwort an ihre Grenze, endet sie jetzt beim letzten ganzen Satz. Vorher konnte am Schluss ein halber Satz wie „Ab 29.10.“ stehen bleiben, weil der Punkt im Datum als Satzende galt.
+- Allgemeine Optimierungen wurden durchgeführt.
 
 ## 26. Oktober 2026
 
