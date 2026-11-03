@@ -4,6 +4,23 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 2. November 2026
+
+- Eine Folgefrage wie „Und wie viele Arten?“ bleibt jetzt beim Thema der Frage davor. Mit dem Update von heute Mittag suchte KIplatz dafür kurz nur mit den Wörtern der Folgefrage und fand etwas ganz anderes.
+- Bei jeder Wissensfrage holt KIplatz jetzt zuerst Quellen, aus dem Wissen der Community oder aus dem Internet, und nimmt Zahlen, Daten und Namen nur aus ihnen. Bisher entschied das Modell selbst, ob es nachschaut, und riet manchmal aus dem Gedächtnis. Findet KIplatz nichts, sagt es das, statt zu raten.
+- Fragst du nach dem Neuesten, etwa dem neuesten Buch einer Autorin oder dem neuesten Handy, schaut KIplatz jetzt immer im Internet nach. Aus dem Gedächtnis kann es nicht wissen, was gerade neu ist.
+- Fragst du nach einer Zahl oder einem Datum, etwa „Wann gab es die ersten Menschen?“, sucht KIplatz jetzt gleich im Internet und schreibt die Antwort einmal, mit Quelle. Bisher schrieb es sie zuerst aus dem Gedächtnis, verwarf sie, weil die Zahl nicht belegt war, und schrieb sie dann ein zweites Mal. Die Antwort kommt so schneller.
+- Sucht KIplatz im Internet, liest es nur noch Seiten, die von der Sache handeln, nach der du fragst. Wer nach einem Spiel fragt, bekommt keine Antwort mehr aus einer Seite über etwas ganz anderes, nur weil ein paar Wörter gleich sind. Findet KIplatz nichts Passendes, sagt es das.
+
+## 29. Oktober 2026
+
+- Ein Update wartet jetzt, bis die laufende Arbeit am PC fertig ist, auch wenn die Karte für deine Gegend gerade eingelesen wird. Sie muss dann nicht von vorn beginnen.
+- Fragst du nach einer Dauer, einer Temperatur, einem Alter oder einem Betrag, liest KIplatz jetzt gezielt die Stelle mit der Zahl, auch bei englischen Fragen. So kommt bei „Wie lange dauert ein Fußballspiel?“ oder „What core temperature does chicken need?“ die Antwort statt „weiß ich nicht“.
+- Fragst du nach einem Ort, einem Buch oder einem Menschen, den es vielleicht gar nicht gibt, schaut KIplatz jetzt zuerst im Internet nach. Findet es nichts, sagt es das ehrlich, statt eine Antwort zu erfinden.
+- Richtige Antworten fallen seltener der Prüfung zum Opfer: „Der Blauwal ist das größte Säugetier“ bleibt stehen, und bei Verkehrsregeln gelten gewöhnliche Wörter wie „Motorräder“ nicht mehr als unbekannter Name.
+- Nach der Anmeldung im Browser holt sich KIplatz jetzt selbst nach vorne, und das Programmfenster bleibt nach dem Neuladen nicht mehr schwarz.
+- Allgemeine Optimierungen wurden durchgeführt.
+
 ## 28. Oktober 2026
 
 - Im Programm wechselst du jetzt mit einem Klick zwischen den Konten, die auf diesem PC angemeldet waren. Jedes Konto hat dort seine eigenen Gespräche, Projekte, Skills und sein eigenes Gedächtnis, und der PC arbeitet dabei weiter für die Community.
