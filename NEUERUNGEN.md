@@ -4,6 +4,11 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 3. November 2026
+
+- Merkt ein PC der Community, dass er gerade viel langsamer schreibt als sonst, sagt er das jetzt auch dann, wenn die Grafikkarte nicht sichtbar belegt ist. Deine Frage geht dann gleich an einen schnelleren PC.
+- Allgemeine Optimierungen wurden durchgeführt.
+
 ## 2. November 2026
 
 - Eine Folgefrage wie „Und wie viele Arten?“ bleibt jetzt beim Thema der Frage davor. Mit dem Update von heute Mittag suchte KIplatz dafür kurz nur mit den Wörtern der Folgefrage und fand etwas ganz anderes.
