@@ -4,6 +4,12 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 19. November 2026
+
+- Fragst du die Community, reist deine Frage jetzt verschlüsselt. Öffnen können sie nur die PCs der Community, die antworten dürfen, der Server in Wien gibt sie nur weiter. Allgemeine Wissensfragen ohne Namen sieht er als Stichwörter, damit die Antwort beim nächsten Mal gleich kommt.
+- Dein Gerät prüft jede Antwort aus der Community jetzt selbst: ob der PC sie unterschrieben hat, ob sie sich an die Platzordnung hält und welche Sätze in den Quellen stehen. Unter den Details siehst du, wie viele Quellen der Server bestätigt hat.
+- Schreibst du in einer Krise, antwortet dein Gerät sofort selbst mit Nummern, wo du Hilfe bekommst. Diese Frage verlässt dein Gerät nicht.
+
 ## 3. November 2026
 
 - Merkt ein PC der Community, dass er gerade viel langsamer schreibt als sonst, sagt er das jetzt auch dann, wenn die Grafikkarte nicht sichtbar belegt ist. Deine Frage geht dann gleich an einen schnelleren PC.
