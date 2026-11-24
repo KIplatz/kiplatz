@@ -4,6 +4,62 @@ Was jede Version von KIplatz neu kann, mit den Sätzen, die das Programm nach ei
 
 Quelle und alle Einzelheiten: https://kiplatz.at/neu/ (English: https://kiplatz.com/new/)
 
+## 24. November 2026
+
+- Der Antwortspeicher füllt sich wieder. Vorher prüften die PCs wochenalte Antwort-Entwürfe gegen, die danach sofort als veraltet wegfielen; jetzt schreibt ein PC mit dem aktuellen Programm sie neu, und häufige Fragen kommen wieder sofort.
+- Wird KIplatz neu ausgerollt, bleiben die gespeicherten Antworten jetzt erhalten, außer die Änderung betrifft genau sie. Häufige Fragen kommen so wieder sofort aus dem Antwortspeicher.
+- Römische Zahlen rechnet KIplatz jetzt in beide Richtungen selbst und schlüsselt sie auf, etwa 2024 = MMXXIV (MM = 2000, XX = 20, IV = 4).
+- Fragst du, wie weit es von einem Ort zum anderen ist, rechnet KIplatz die Luftlinie jetzt aus den Ortsdaten von OpenStreetMap selbst aus, etwa rund 155 km von Linz nach Wien.
+- Umfang und Fläche von Rechteck und Quadrat rechnet KIplatz jetzt selbst aus, mit Rechenweg.
+- Allgemeine Optimierungen wurden durchgeführt.
+
+## 23. November 2026
+
+- Auch längere Hinweise in eckigen Klammern, etwa „[kurze Begründung, z. B. …]“, stehen in Briefen jetzt als Strich zum Ausfüllen da.
+- Lässt du dir einen Brief oder eine Nachricht schreiben, stehen an den Stellen, die nur du kennst, etwa Name oder Datum, jetzt Striche zum Ausfüllen. Vorher fielen diese Stellen einfach weg, und Sätze wie „morgen, den, nicht in die Schule“ blieben übrig.
+- Fragst du nach einer Liste von Namen, etwa den neun Bundesländern, streicht KIplatz die Namen nicht mehr aus der Antwort, nur weil sie in derselben Reihenfolge auch auf einer Webseite stehen. Und Textaufgaben wie „24 Kinder, ein Drittel davon sind Buben, wie viele Mädchen?“ rechnet es jetzt selbst, mit Rechenweg.
+- Fragen aus dem Schulbuch zu Kalender und Zeit, etwa „Wie viele Wochen hat ein Jahr?“, beantwortet KIplatz jetzt selbst, auch wenn die Suche gerade nicht geht. Bei „Rechne geschickt: 9 · 57“ zeigt es den geschickten Weg, und bei „Kann das stimmen?“ zu zwei Altersangaben sagt es, wer wirklich älter ist.
+- Textaufgaben mit Tagen, etwa „Blumen gießen alle zwei Tage vom 25.6. bis 8.7.“, rechnet KIplatz jetzt selbst und sucht dafür nicht mehr im Internet nach unbekannten Vornamen wie Pjotr oder Luba.
+- Auch Textaufgaben aus der Volksschule rechnet KIplatz jetzt selbst: Wechselgeld, Stückpreis mal Anzahl, pro Tag oder Woche aufs Jahr, „doppelt so viele wie“ und die Summe aus zwei Zahlen, jeweils mit Rechenweg.
+- Rechenaufgaben aus der Volksschule rechnet KIplatz jetzt selbst und genau, mit Rechenweg und Probe, ohne Gleichungen mit x: Zahlenrätsel wie „Dividiere die Zahl durch 6 und du erhältst 22 Rest 2“, Tiere und Beine, Reihenfolge-Rätsel und „Wo ist der Fehler?“ bei Divisionen mit Rest.
+- Allgemeine Optimierungen wurden durchgeführt.
+
+## 22. November 2026
+
+- Liest KIplatz mehrere Seiten, bekommt das Modell jetzt von jeder Seite zuerst die beste Stelle. Bisher konnte eine lange Seite alle Plätze belegen, etwa die Seite eines früheren Bundeskanzlers statt der Seite des Kanzleramts mit dem heutigen.
+- Fragst du nach der Uhrzeit in einer Stadt, etwa „What time is it in Sydney right now?“, rechnet KIplatz sie jetzt selbst aus, statt eine Seite zu lesen, die die Zeit ihres Abrufs zeigt. Und bei Einwohnerzahlen einer Stadt wie Graz oder Zürich sucht es auch beim Statistikamt des Landes.
+- Die gezielte Suche auf der Seite der Behörde geht jetzt auch dann hinaus, wenn KIplatz zuerst mit deinen eigenen Wörtern sucht. Bisher fiel sie dabei weg, etwa beim ESTA für die USA oder bei der Familienbeihilfe.
+- Fragst du „Wie hoch ist …“ nach einem Geldbetrag, etwa der Mindestpension oder der Familienbeihilfe, gibt KIplatz dem Modell jetzt die Stellen mit dem Betrag. Bisher hielt es „wie hoch“ für eine Frage nach Metern, und der Betrag fehlte in der Antwort.
+- Sucht KIplatz gezielt auf einer amtlichen Seite, nimmt es jetzt die Wörter deiner Frage. Bisher hängte es Wörter wie „offizielle Quelle“ an und fand damit auf den Seiten der Behörden oft nichts.
+- Fragst du nach einem Betrag, den der Staat festlegt, etwa der Mindestpension, der Familienbeihilfe oder dem Mindestlohn, sucht KIplatz jetzt zusätzlich gezielt auf den amtlichen Seiten, in Österreich auf gv.at.
+- Steht in der ersten gelesenen Seite der gefragte Betrag nicht, etwa die Höhe der Mindestpension, sucht KIplatz jetzt weiter, statt „dazu gibt es noch keine Angaben“ zu sagen. Und ein Satz, der nur den Satz davor wiederholt, fällt weg.
+- Fragst du nach einer Gebühr einer Behörde oder einer amtlichen Zahl, sucht KIplatz jetzt zusätzlich gezielt auf der Seite der Behörde oder des Statistikamts, etwa bei der EU für das Schengen-Visum. Und bei Feiertagen steht der Name dabei.
+- Fragst du nach einer Gebühr einer Behörde, etwa für ein Visum, oder nach einer amtlichen Zahl wie der Einwohnerzahl eines Landes, liest KIplatz jetzt zuerst die Seite der Behörde oder des Statistikamts. Seiten, die Einwohnerzahlen nur hochrechnen, nennt es als Schätzung.
+- Sagt eine Antwort „heute geschlossen“, nennt aber selbst Öffnungszeiten für den heutigen Tag, merkt KIplatz das jetzt auch bei englischen Uhrzeiten wie „6:00 PM“.
+- Fragst du nach einem Betrag für eine bestimmte Zahl, etwa die Pendlerpauschale bei 30 km, sucht KIplatz jetzt die Zeile, in deren Bereich deine Zahl fällt, und sagt dazu, aus welcher Tabelle der Betrag stammt. Und sagt eine Antwort „heute geschlossen“, prüft KIplatz das gegen den heutigen Wochentag.
+- Fragst du nach Beträgen aus einer Tabelle, etwa der Pendlerpauschale, weiß KIplatz jetzt, zu welcher Tabelle und Spalte ein Betrag gehört, also ob kleine oder große Pauschale, Monat oder Jahr. Die Zeitumstellung rechnet es selbst aus, und bei Öffnungszeiten nennt es die Uhrzeiten. Ein Schlusssatz, der den Zahlen davor widerspricht, fällt weg.
+- Fragst du nach einer Regel in einer Stadt, etwa nach der Einkommensteuer in Dubai, weiß KIplatz jetzt, welches Land gemeint ist, und fragt nicht mehr nach. Regeln sucht es mit dem heutigen Stand statt mit dem Jahr, das das Modell im Kopf hat. Und ist die Suche gerade gebremst, sagt KIplatz das, statt „nichts gefunden“.
+- Fragst du, in welcher Zeitzone ein Ort liegt, rechnet KIplatz das jetzt selbst, mit Sommerzeit und der Uhrzeit dort. Bei einer Umrechnung von Fahrenheit in Celsius steht der Rechenweg dabei. Und fragst du nach etwas, das es nur in einem Land gibt, etwa dem Kindergeld, sagt KIplatz dazu, für welches Land die Antwort gilt. Fragst du, wie jemand in einem Amt heißt, etwa der Bundeskanzler, sucht KIplatz nach dem heutigen Stand.
+- Antwortest du auf eine englische Rückfrage nur mit einem Land oder einem Namen, etwa „United Kingdom“, antwortet KIplatz weiter auf Englisch.
+- KIplatz nimmt nicht mehr an, dass du aus Österreich fragst. Hängt die Antwort vom Land ab, etwa beim Mindestlohn, beim Mutterschutz oder beim Reisepass, fragt KIplatz auf Deutsch und auf Englisch zuerst, für welches Land du es wissen willst.
+- Fragst du, was eine Abkürzung bedeutet, etwa „Was ist eine E-Card?“, schaut KIplatz jetzt in Quellen nach, statt aus dem Gedächtnis zu antworten.
+- Fragst du nach dem Unterschied zwischen Pension und Rente, erklärt KIplatz es jetzt so, wie es in Österreich gilt. Und wer fragt, wie lange man für eine Pension oder eine Beihilfe arbeiten oder wohnen muss, bekommt die Voraussetzungen.
+- Fragst du, was ein Begriff bedeutet, etwa „Was ist ein Kollektivvertrag?“, schaut KIplatz jetzt in Quellen nach, statt aus dem Gedächtnis zu antworten. Fragst du nach dem Wetter an einem bestimmten Tag, steht dieser Tag für die Antwort ganz vorne.
+- Fragen zum Backofen, zum Kochen oder zum Haushalt mit „Grad“ hält KIplatz nicht mehr für Wetterfragen, und kennt es einen Ort fürs Wetter nicht, sucht es im Internet, statt aufzugeben. Weichen Bundesländer voneinander ab, nennt KIplatz jedes mit genau seinem Wert.
+- Hängt die Antwort vom Land ab, etwa bei Steuern, Beihilfen, Pension, Ausweisen oder Altersgrenzen, und du nennst keines, fragt KIplatz zuerst, für welches Land du es wissen willst. Ist etwas in den Bundesländern verschieden, sagt KIplatz, was meistens gilt und wo es abweicht. Beträge aus Tabellen liest KIplatz jetzt in derselben Zeile wie ihre Beschriftung, so passt der Betrag zum richtigen Alter. Und wer fragt, wie man etwas wird oder bekommt, bekommt die Voraussetzungen.
+- Steht die Antwort in einer Tabelle, etwa die Ausgehzeiten je Bundesland, liest KIplatz jetzt jede Zeile mit ihrer Beschriftung. So wird aus der Regel eines Bundeslands keine Regel für ganz Österreich mehr. Auf PCs mit Bewertungsmodell prüft KIplatz von den gelesenen Seiten mehr Stellen und findet so die, in der die Antwort wirklich steht. Und KIplatz schreibt Pensionsversicherung statt Rentenversicherung und Jänner statt Januar.
+- Fragst du, was ein Begriff bedeutet, nimmt KIplatz nur noch Fundstellen, die von genau diesem Begriff handeln. Findet sich im Wissen der Community nichts zum Thema, sucht KIplatz jetzt im Internet und sucht dabei auch mit deinen eigenen Wörtern. Bei Fragen zu zwei Orten bekommt jeder seinen Platz, und „Wetteraussichten“ versteht KIplatz als Frage nach dem Wetter.
+- Auch auf PCs mit Bewertungsmodell kommen schwach passende Fundstellen nur noch ans Modell, wenn sie wirklich vom Thema der Frage handeln. So erklärt KIplatz Brutto und Netto wieder mit dem Lohn statt mit Biodiesel.
+- Fragst du nach dem Unterschied zwischen Wetter und Klima, erklärt KIplatz es jetzt, statt nach deinem Ort zu fragen. Ein Gedicht, einen Witz oder eine Geschichte mit Thema schreibt es gleich, ohne Rückfragen. Auf schwächeren PCs nimmt KIplatz keine Fundstellen mehr, die nur nebenbei dieselben Wörter tragen, und gibt dem Modell bei einer Suche zuerst die Stellen, die zur Frage passen.
+- Allgemeine Optimierungen wurden durchgeführt.
+
+## 21. November 2026
+
+- Zu einem Befund streicht KIplatz jetzt auch beruhigende Sätze wie „nicht alarmierend“, selbst wenn daneben die Ärztin oder der Arzt erwähnt wird. Fragen zu einem Befund, einer Diagnose oder einem Medikament beantwortet immer ein PC neu, nie eine gespeicherte Antwort.
+- Steht in einem Befund eine Abkürzung, nimmt KIplatz ihre Bedeutung jetzt aus einer geprüften Liste, etwa Hirnnerven für HN oder rechter Oberlappen für RO. Fragst du, wie schlimm ein Befund ist, sagt KIplatz offen, dass das nur deine Ärztin oder dein Arzt beurteilen kann, und erklärt dir die Wörter.
+- Fügst du einen langen Text in deine Frage ein, etwa einen Befund, einen Brief oder einen Bescheid, arbeitet KIplatz jetzt genau mit diesem Text, so wie bei einem Anhang. Verlangst du mehrere Teile, bekommst du jeden, und wird die Antwort zu lang, steht darunter, dass es mit „weiter“ weitergeht.
+- Abkürzungen, die KIplatz nicht sicher kennt, soll es jetzt als unsicher kennzeichnen, statt eine Bedeutung zu raten. Zu einem Befund sagt es nicht, wie schlimm etwas ist, und darunter steht, dass KI-Antworten keine Ärztin und keinen Arzt ersetzen. Das ist neu, und wir verbessern es laufend.
+
 ## 19. November 2026
 
 - Fragst du die Community, reist deine Frage jetzt verschlüsselt. Öffnen können sie nur die PCs der Community, die antworten dürfen, der Server in Wien gibt sie nur weiter. Allgemeine Wissensfragen ohne Namen sieht er als Stichwörter, damit die Antwort beim nächsten Mal gleich kommt.
